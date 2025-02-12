@@ -34,7 +34,12 @@
     </div>
 </div>
 
-    <script type="text/javascript" src="{{ url_for('static', filename='app.js') }}"></script>
+    <script type="text/javascript" src="{{ url_for('static', filename='app.js') }}" defer></script>
+    <script>
+        const username = "{{ current_user.username if current_user.is_authenticated else 'Utilisateur' }}";
+        console.log("Nom de l'utilisateur récupéré :", username); // DEBUG
+    </script>
+    
 
 </body>
 </html>

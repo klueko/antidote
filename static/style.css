@@ -187,6 +187,25 @@ i.fa-brands {
     overflow: hidden;
 }
 
+.typing-indicator {
+    display: flex;
+    align-items: center;
+    font-style: italic;
+    color: #888;
+}
+
+.typing-indicator::after {
+    content: ' .';
+    animation: typing 1.5s infinite;
+}
+
+@keyframes typing {
+    0% { content: ' .'; }
+    33% { content: ' ..'; }
+    66% { content: ' ...'; }
+}
+
+
 .window_footer {
     display: flex;
     flex-direction: row;
