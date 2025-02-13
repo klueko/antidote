@@ -38,20 +38,30 @@ def register():
         return redirect(url_for('login'))
     return render_template('register.html')
 
+
 # Route de connexion
 @app.route('/login', methods=['GET', 'POST'])
 def login():
     if request.method == 'POST':
-        email = request.form['email']
-        password = request.form['password']
+        email = request.form.get('email', '').strip()
+        password = request.form.get('password', '').strip()
+
+        if not email or not password:
+            # flash("Tous les champs doivent être remplis.", "danger")
+            return redirect(url_for('login'))
+
         user = User.query.filter_by(email=email).first()
         if user and bcrypt.check_password_hash(user.password, password):
             login_user(user)
-            flash("Connexion réussie!", "success")
+            # flash("Connexion réussie!", "success")
             return redirect(url_for('chat'))
         else:
-            flash("Identifiants incorrects", "danger")
+            flash("Email ou mot de passe incorrect.", "danger")
+
     return render_template('login.html')
+
+
+
 
 # Route de déconnexion
 @app.route('/logout')
@@ -66,7 +76,26 @@ def logout():
 def chat():
     return render_template('index.html')
 
+@app.route('/delete_account', methods=['POST'])
+@login_required
+def delete_account():
+    user = User.query.get(current_user.id)
+
+    if user:
+        print(f"🗑️ Suppression du compte : {user.username}")  # Debug
+        logout_user()  # Déconnecter avant suppression
+        db.session.delete(user)  # Supprimer l'utilisateur de la base
+        db.session.commit()
+        flash("Votre compte a été supprimé avec succès.", "success")
+    else:
+        print("❌ Erreur : utilisateur non trouvé")  # Debug
+        flash("Erreur : impossible de supprimer le compte.", "danger")
+
+    return redirect(url_for('login'))  # Rediriger vers la page de connexion après suppression
+
 if __name__ == '__main__':
     with app.app_context():
         db.create_all()
     app.run(debug=True)
+
+

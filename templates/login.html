@@ -17,6 +17,9 @@
 
     <div class="auth-container wrapper">
         <h2>Connexion</h2>
+        {% for message in get_flashed_messages() %}
+  <p style="color: red;">{{ message }}</p>
+{% endfor %}
         <form method="POST" class="policy">
             <label for="email" >Email :</label>
             <input class="input-box" type="email" name="email" required >
