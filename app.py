@@ -4,17 +4,20 @@ from flask_sqlalchemy import SQLAlchemy
 from flask_bcrypt import Bcrypt
 from flask_login import LoginManager, UserMixin, login_user, logout_user, login_required, current_user
 import pandas as pd
+import os
 
 from instructions import load_faiss
 from query import query_ollama, search_bites
 
-# Initialisation de Flask et des extensions
 app = Flask(__name__)
 
 retriever = load_faiss()
-with open("bites_articles_fr_cleaned.json", "r", encoding="utf-8") as file:
-    data = json.load(file)
-df = pd.json_normalize(data)
+if os.path.exists("bites_articles_fr_cleaned.json"):
+    with open("bites_articles_fr_cleaned.json", "r", encoding="utf-8") as file:
+        data = json.load(file)
+    df = pd.json_normalize(data)
+else:
+    df = None
 
 app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///users.db'
 app.config['SECRET_KEY'] = 'supersecretkey'
@@ -23,7 +26,6 @@ bcrypt = Bcrypt(app)
 login_manager = LoginManager(app)
 login_manager.login_view = "login"
 
-# Modèle Utilisateur
 class User(UserMixin, db.Model):
     id = db.Column(db.Integer, primary_key=True)
     username = db.Column(db.String(150), unique=True, nullable=False)
@@ -32,7 +34,7 @@ class User(UserMixin, db.Model):
 
 @login_manager.user_loader
 def load_user(user_id):
-    return User.query.get(int(user_id))
+    return db.session.get(User, int(user_id))
 
 # Route d'inscription
 @app.route('/register', methods=['GET', 'POST'])
@@ -41,43 +43,48 @@ def register():
         username = request.form['username']
         email = request.form['email']
         password = bcrypt.generate_password_hash(request.form['password']).decode('utf-8')
+        existing_user = User.query.filter_by(email=email).first()
+        if existing_user:
+            flash("Cet email est déjà utilisé. Veuillez en choisir un autre.")
+            return redirect(url_for('register'))
+        
         new_user = User(username=username, email=email, password=password)
         db.session.add(new_user)
         db.session.commit()
-        flash("Inscription réussie! Connecte-toi maintenant.", "success")
+        flash("Inscription réussie! Connecte-toi maintenant.")
         return redirect(url_for('login'))
     return render_template('register.html')
 
-# Route de connexion
 @app.route('/login', methods=['GET', 'POST'])
 def login():
     if request.method == 'POST':
         email = request.form['email']
         password = request.form['password']
+        if not email or not password:
+            return redirect(url_for('login'))
         user = User.query.filter_by(email=email).first()
         if user and bcrypt.check_password_hash(user.password, password):
             login_user(user)
             flash("Connexion réussie!", "success")
             return redirect(url_for('chat'))
         else:
-            flash("Identifiants incorrects", "danger")
+            flash("Identifiants incorrects")
     return render_template('login.html')
 
-# Route de déconnexion
 @app.route('/logout')
 def logout():
     logout_user()
     flash("Déconnexion réussie.", "success")
     return redirect(url_for('login'))
 
-# Page du chatbot (accessible uniquement aux utilisateurs connectés)
 @app.route('/chat')
+# Accessible uniquement aux utilisateurs connectés)
 @login_required
 def chat():
     return render_template('index.html')
 
 @app.route("/query", methods=["POST"])
-@login_required  # Ensuring only logged-in users can query the chatbot
+@login_required
 def query():
     user_message = request.json.get('message')
     if not user_message:
@@ -92,13 +99,27 @@ def query():
             prompt = "Voici les morsures correspondant à votre question :\n\n"
             for bite in search_results:
                 prompt += f"- {bite}\n"
-            prompt += "\nPeux-tu donner des recommandations médicales ?"
+            prompt += "\nPeux-tu donner des recommandations médicales comme si je m'étais fait mordre ? ?"
  
             response = query_ollama(prompt)
         else:
             response = search_results[0]
 
     return jsonify({"answer": response})
+
+@app.route('/delete_account', methods=['POST'])
+@login_required
+def delete_account():
+    user = db.session.get(User, current_user.id)
+    if user:
+        db.session.delete(user)
+        db.session.commit()
+        logout_user()
+        flash("Votre compte a été supprimé avec succès.")
+        return redirect(url_for('register'))
+    else:
+        flash("Erreur lors de la suppression du compte.")
+        return redirect(url_for('chat'))
 
 if __name__ == '__main__':
     with app.app_context():
