@@ -7,14 +7,6 @@
     <link rel="stylesheet" href="{{ url_for('static', filename='connexion.css') }}">
 </head>
 <body>
-
-    <!-- <div class="video-background">
-        <video autoplay muted loop id="background-video">
-            <source src="../static/images/istockphoto-2018098776-640_adpp_is.mp4" type="video/mp4">
-            Votre navigateur ne supporte pas les vidéos HTML5.
-        </video>
-    </div> -->
-
     <div class="auth-container wrapper">
         <h2>Connexion</h2>
         <form method="POST" class="policy">
@@ -25,6 +17,15 @@
             <input class="input-box" type="password" name="password" required>
 
             <button type="submit">Se connecter</button>
+            {% with messages = get_flashed_messages() %}
+                {% if messages %}
+                    <div class="flash-messages">
+                        {% for message in messages %}
+                            <div class="flash-message">{{ message }}</div>
+                        {% endfor %}
+                    </div>
+                {% endif %}
+            {% endwith %}
         </form>
         <p>Pas encore de compte ? <a href="{{ url_for('register') }}">Inscris-toi</a></p>
     </div>
