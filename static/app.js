@@ -104,6 +104,22 @@ class Chatbox {
 
         this.args.chatMessagesContainer.innerHTML = messagesHtml;
     }
+
+    askQuestion() {
+        let question = document.getElementById("query").value;
+        
+        fetch("http://127.0.0.1:5000/query", {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify({ question: question })
+        })
+        .then(response => response.json())
+        .then(data => {
+            document.getElementById("response").innerText = data.response;
+        })
+        .catch(error => console.error("Error:", error));
+    }
+    
 }
 
 const chatbox = new Chatbox();
