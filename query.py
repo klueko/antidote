@@ -6,7 +6,7 @@ from instructions import detect_animal_type, load_faiss
 # Load FAISS retriever
 retriever = load_faiss()
 
-def search_bites(query):
+def search_bites(query, retriever, df):
     """Search FAISS for relevant bite information."""
     if not retriever:
         return ["FAISS index not available."]
@@ -14,7 +14,7 @@ def search_bites(query):
     print(f"🔍 Searching FAISS for: {query}")
 
     try:
-        docs = retriever.get_relevant_documents(query)
+        docs = retriever.invoke(query)
     except Exception as e:
         print(f"FAISS search error: {e}")
         return ["FAISS search failed."]
@@ -42,7 +42,7 @@ def query_ollama(prompt, model="llama3.2"):
     try:
         response = requests.post("http://localhost:11434/api/generate", json=payload, headers=headers, stream=True)
         if response.status_code != 200:
-            return f"Ollama error: {response.status_code}"
+            return f"Erreur {response.status_code} - {response.text}"
 
         final_response = ""
         for line in response.iter_lines():
@@ -53,7 +53,11 @@ def query_ollama(prompt, model="llama3.2"):
                 except json.JSONDecodeError:
                     continue
 
-        return final_response if final_response else "Aucune réponse obtenue."
+        if not final_response:
+            return "Aucune réponse obtenue, essayez une autre question."
+
+        formatted_response = final_response.replace("\n", "<br>").replace("**", "<b>")
+        return formatted_response
     
     except requests.exceptions.RequestException as e:
-        return f"Connection error to Ollama: {e}"
+        return f"Error de connection : {e}"

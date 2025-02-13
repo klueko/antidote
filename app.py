@@ -1,14 +1,20 @@
+import json
 from flask import Flask, render_template, request, redirect, url_for, flash, session, jsonify
 from flask_sqlalchemy import SQLAlchemy
 from flask_bcrypt import Bcrypt
 from flask_login import LoginManager, UserMixin, login_user, logout_user, login_required, current_user
-from flask_cors import CORS
+import pandas as pd
 
+from instructions import load_faiss
 from query import query_ollama, search_bites
 
 # Initialisation de Flask et des extensions
 app = Flask(__name__)
-CORS(app)
+
+retriever = load_faiss()
+with open("bites_articles_fr_cleaned.json", "r", encoding="utf-8") as file:
+    data = json.load(file)
+df = pd.json_normalize(data)
 
 app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///users.db'
 app.config['SECRET_KEY'] = 'supersecretkey'
@@ -71,22 +77,28 @@ def chat():
     return render_template('index.html')
 
 @app.route("/query", methods=["POST"])
+@login_required  # Ensuring only logged-in users can query the chatbot
 def query():
-    data = request.json
-    user_query = data.get("question", "")
+    user_message = request.json.get('message')
+    if not user_message:
+        return jsonify({"answer": "Je n'ai pas compris votre question."})
+    
+    greetings = ["bonjour", "salut", "coucou"]
+    if user_message.lower() in greetings:
+        response = "Bonjour ! Comment puis-je vous aider aujourd'hui ?"
+    else:
+        search_results = search_bites(user_message, retriever, df)
+        if search_results and "❌" not in search_results[0]:
+            prompt = "Voici les morsures correspondant à votre question :\n\n"
+            for bite in search_results:
+                prompt += f"- {bite}\n"
+            prompt += "\nPeux-tu donner des recommandations médicales ?"
+ 
+            response = query_ollama(prompt)
+        else:
+            response = search_results[0]
 
-    if not user_query:
-        return jsonify({"error": "No question provided"}), 400
-
-    # Search FAISS for relevant documents
-    results = search_bites(user_query)
-
-    # Generate response with Ollama
-    prompt = "Voici les instructions médicales:\n\n" + "\n".join(results)
-    prompt += "\nPeux-tu faire des recommandations de prise en charge médicale et chirurgicale ?"
-
-    response = query_ollama(prompt)
-    return jsonify({"question": user_query, "answer": response})
+    return jsonify({"answer": response})
 
 if __name__ == '__main__':
     with app.app_context():
