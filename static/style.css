@@ -44,6 +44,36 @@ body {
     width: 100%;
 }
 
+i.fa-brands {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+}
+
+.fa-nfc-symbol {
+    /* display: flex; 
+    align-items: center; 
+    justify-content: center; */
+    display: flex;
+    margin-right: 50px;
+    padding: 11px;
+    background-color: #57b999;
+    color: white;
+    text-decoration: none;
+    border-radius: 50%;
+    font-weight: bold;
+    font-size: 20px;
+    width: 15px;
+    height: 15px;
+}
+
+.fa-nfc-symbol:hover {
+    background-color: rgb(252, 252, 252);
+    color: black;
+}
+
+
 .window_content {
     text-align: left;
     flex-grow: 1;
@@ -157,6 +187,25 @@ body {
     overflow: hidden;
 }
 
+.typing-indicator {
+    display: flex;
+    align-items: center;
+    font-style: italic;
+    color: #888;
+}
+
+.typing-indicator::after {
+    content: ' .';
+    animation: typing 1.5s infinite;
+}
+
+@keyframes typing {
+    0% { content: ' .'; }
+    33% { content: ' ..'; }
+    66% { content: ' ...'; }
+}
+
+
 .window_footer {
     display: flex;
     flex-direction: row;
@@ -191,3 +240,4 @@ body {
 .submit_space {
     color: white;
 }
+

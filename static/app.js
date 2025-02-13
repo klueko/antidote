@@ -11,12 +11,16 @@ class Chatbox {
     }
 
     display() {
+        console.log("La fonction display() s'exécute !");
         this.setupEventListeners();
         if (window.location.pathname === "/chat") {
-            this.addMessage('Antidote', "Salut ! Je suis Antidote, ton guide de la survie en cas de blessures ou d'empoisonnement.");
+            console.log("Ajout du message de bienvenue...");
+            this.addMessage('Antidote', `Salut ${username} ! Je suis Antidote, ton guide de la survie en cas de blessures ou d'empoisonnement.`);
                     this.updateChatText();
                 }
     }
+
+    
 
     setupEventListeners() {
         const { sendButton, textField, chatBox } = this.args;
@@ -32,28 +36,52 @@ class Chatbox {
     onSendButton(chatBox) {
         const textField = this.args.textField;
         const messageText = textField.value.trim();
-
+    
         if (!messageText) return;
-
+    
         this.addMessage('User', messageText);
         textField.value = '';
-
+    
         this.updateChatText(chatBox);
-
-        this.sendMessageToBot(messageText)
-            .then(response => {
-                this.addMessage('Antidote', response.answer);
-                this.updateChatText(chatBox);
-            })
-            .catch(error => {
-                console.error('Error:', error);
-                this.addMessage('Antidote', "Je n'ai pas pu te trouver cette information !");
-                this.updateChatText(chatBox);
-            });
+    
+        // Afficher l'effet de frappe
+        this.showTypingIndicator();
+    
+        setTimeout(() => {
+            this.sendMessageToBot(messageText)
+                .then(response => {
+                    this.removeTypingIndicator(); // Supprimer l'animation de frappe
+                    this.addMessage('Antidote', response.answer);
+                    this.updateChatText(chatBox);
+                })
+                .catch(error => {
+                    console.error('Error:', error);
+                    this.removeTypingIndicator();
+                    this.addMessage('Antidote', "Je n'ai pas pu te trouver cette information !");
+                    this.updateChatText(chatBox);
+                });
+        }, 1500); // Simulation d'un délai avant la réponse du bot
     }
 
+
+    showTypingIndicator() {
+        this.addMessage('Antidote', `<span class="typing-indicator">Antidote est en train d'écrire...</span>`);
+        this.updateChatText();
+    }
+    
+    
+    removeTypingIndicator() {
+        this.messages = this.messages.filter(msg => !msg.message.includes("Antidote est en train d'écrire"));
+        this.updateChatText();
+    }
+    
+    
+
     addMessage(sender, messageText) {
+        
         this.messages.push({ name: sender, message: messageText });
+        console.log(`Ajout du message : ${sender} - ${messageText}`); // DEBUG
+        console.log("Valeur de username :", username);
     }
 
     sendMessageToBot(messageText) {
