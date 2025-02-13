@@ -1,16 +1,7 @@
 from flask import Flask, jsonify, render_template, request
 from flask_cors import CORS
-import faiss
-from langchain.embeddings import OllamaEmbeddings
-from langchain.vectorstores import FAISS
-from langchain.llms import Ollama
 
-from model.query import query_model
-
-embedding_model = OllamaEmbeddings(model="llama3.2")
-vector_store = FAISS.load_local("/antidote/model/faiss_index", embedding_model)
-
-llm = Ollama(model="llama3.2")
+from query import query_ollama, search_bites
 
 app = Flask(__name__)
 CORS(app)
@@ -28,28 +19,19 @@ def generate():
 def query():
     data = request.json
     user_query = data.get("question", "")
-    response = query_model(user_query)
-    return jsonify({"response": response})
 
-@app.route("/ask", methods=["POST"])
-def ask():
-    data = request.json
-    question = data.get("question", "")
-
-    if not question:
+    if not user_query:
         return jsonify({"error": "No question provided"}), 400
 
-    # Rechercher les documents les plus pertinents
-    docs = vector_store.similarity_search(question, k=3)
+    # Search FAISS for relevant documents
+    results = search_bites(user_query)
 
-    # Construire le contexte pour LLaMA
-    context = "\n\n".join([doc.page_content for doc in docs])
+    # Generate response with Ollama
+    prompt = "Voici les instructions médicales:\n\n" + "\n".join(results)
+    prompt += "\nPeux-tu faire des recommandations de prise en charge médicale et chirurgicale ?"
 
-    # Générer la réponse avec LLaMA
-    prompt = f"Réponds à la question en utilisant les informations ci-dessous :\n\n{context}\n\nQuestion : {question}\nRéponse :"
-    response = llm.invoke(prompt)
-
-    return jsonify({"question": question, "answer": response})
+    response = query_ollama(prompt)
+    return jsonify({"question": user_query, "answer": response})
 
 if __name__ == '__main__':
     app.run(debug=True)
