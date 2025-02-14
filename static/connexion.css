@@ -1,0 +1,178 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+:root {
+  --primaryGradient: linear-gradient(93.12deg, #ade6d4, #6bc9c1);
+  --secondaryGradient: linear-gradient(268.91deg, #7ecfbb, #87d5ca);
+  --primaryBoxShadow: 0px 10px 15px rgba(0, 0, 0, 0.1);
+  --secondaryBoxShadow: 0px -10px 15px rgba(0, 0, 0, 0.1);
+  --primary: #959595;
+}
+
+body {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #ffffff;
+  padding: 20px;
+  /* background: url(https://youtube.com/shorts/9lQPVuXW8k4?si=at_Cn2wKHbLUwmgb); */
+  /* background-repeat: no-repeat;
+  background-size: cover;
+  object-fit: cover; */
+  
+}
+
+.alert {
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.alert-success {
+  background-color: #d4edda;
+  color: #155724;
+  border: 1px solid #c3e6cb;
+}
+
+.alert-danger {
+  background-color: #f8d7da;
+  color: #721c24;
+  border: 1px solid #f5c6cb;
+}
+
+.video-background {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: url('chemin/vers/ta/video.mp4') no-repeat center center/cover;
+    z-index: -1;
+}
+
+
+
+/* Définir l'arrière-plan pour toute la page */
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    overflow: hidden;
+}
+
+/* Conteneur de la vidéo en arrière-plan */
+/* .video-background {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1; 
+} */
+
+/* Assurer que la vidéo couvre toute la zone */
+/* #background-video {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; 
+} */
+
+
+.wrapper {
+  width: 100%;
+  max-width: 420px;
+  background: var(--primaryGradient); /* ✅ Applique le dégradé */
+  padding: 50px;
+  border-radius: 8px;
+  box-shadow: var(--primaryBoxShadow);
+  text-align: center;
+}
+
+/* ✅ Ajustement du titre */
+.wrapper h2 {
+  font-size: 26px;
+  font-weight: 700;
+  color: black;
+  margin-bottom: 25px;
+}
+
+/* ✅ Inputs plus grands */
+.input-box {
+  width: 100%;
+  margin-bottom: 20px;
+  height: 45px; /* ⬆️ Augmentation de la hauteur */
+  width: 100%;
+  padding: 15px 10px; /* ⬆️ Plus d'espace en haut et en bas */
+  font-size: 18px;
+  border: 2px solid #a8fa82;
+  border-radius: 8px;
+  transition: 0.3s;
+}
+
+
+/* ✅ Effet de focus */
+.input-box input:focus {
+  border-color: #6aff92;
+}
+
+
+/* ✅ Bouton amélioré */
+button {
+  width: 100%;
+  padding: 15px;
+  font-size: 18px;
+  font-weight: 600;
+  color: white;
+  background: grey;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+button:hover {
+  background: rgb(145, 144, 144);
+}
+
+p {
+  font-size: 14px;
+  margin-top: 10px;
+}
+
+p a {
+  color: #707a96;
+  text-decoration: none;
+}
+
+p a:hover {
+  text-decoration: underline;
+}
+
+/* 🎯 Adaptation pour les grands écrans */
+@media screen and (min-width: 768px) {
+  .wrapper {
+    padding: 60px;
+    max-width: 480px;
+  }
+
+  .wrapper h2 {
+    font-size: 30px;
+  }
+
+  .input-box input {
+    height: 100px;
+    font-size: 20px;
+  }
+
+  button {
+    font-size: 20px;
+  }
+}
