@@ -29,7 +29,6 @@ def clean_authors(authors):
 
 def clean_data():
     """ Loads, cleans, and saves the dataset. """
-
     input_file = "C:/antidote/data_call/bites_articles_fr.json"
     output_file = "C:/antidote/data_call/bites_articles_fr_cleaned.json"
     

@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -18,19 +19,22 @@
                     </div>
                     <div class="window_content">
                         <h4 class="window_heading">Antidot.</h4>
-                        <p class="window_description">Je suis un bot de survie.</p>
+                        <p class="window_description">Je suis un bot de survie, plus tu restes en vie, plus je grandis.
+                        </p>
                     </div>
-                        <a href="{{ url_for('logout') }}" class="logout-btn"> <i class="fa-brands fa-nfc-symbol"></i></a>
-                        <form action="{{ url_for('delete_account') }}" method="post" onsubmit="return confirm('Êtes-vous sûr de vouloir supprimer votre compte ? Cette action est irréversible.');">
-                        <button type="submit" class="delete-account-btn"></button>
-                        </form>
+                    <a href="{{ url_for('logout') }}" class="logout-btn"> <i class="fa-brands fa-nfc-symbol"></i></a>
+                    <form action="{{ url_for('delete_account') }}" method="post"
+                        onsubmit="return confirm('Êtes-vous sûr de vouloir supprimer votre compte ? Cette action est irréversible.');">
+                        <button type="submit" class="delete-account-btn"><i class="fa-solid fa-trash"></i></button>
+                    </form>
                     <a href="{{ url_for('logout') }}"></a>
                 </div>
                 <div class="window_messages">
                 </div>
                 <div class="window_footer">
                     <input type="text" placeholder="Une urgence ?">
-                    <button class="submit_space submit_button"><img src="{{ url_for('static', filename='images/send.png') }}" /></button>
+                    <button class="submit_space submit_button"><img
+                            src="{{ url_for('static', filename='images/send.png') }}" /></button>
                 </div>
             </div>
         </div>
@@ -54,4 +58,5 @@
         });
     </script>
 </body>
+
 </html>

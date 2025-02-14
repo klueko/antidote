@@ -52,11 +52,8 @@ i.fa-brands {
 }
 
 .fa-nfc-symbol {
-    /* display: flex; 
-    align-items: center; 
-    justify-content: center; */
     display: flex;
-    margin-right: 50px;
+    margin-right: 10px;
     padding: 11px;
     background-color: #57b999;
     color: white;
@@ -73,6 +70,27 @@ i.fa-brands {
     color: black;
 }
 
+.delete-account-btn {
+    display: flex;
+    padding: 11px;
+    background-color: #57b999;
+    color: white;
+    border: none;
+    border-radius: 50%;
+    font-weight: bold;
+    font-size: 17px;
+    cursor: pointer;
+    transition: background 0.3s ease, transform 0.2s ease;
+    margin-right: 50px;
+}
+.delete-account-btn:hover {
+    background-color: white;
+    transform: scale(1.05);
+    color: black;
+}
+.delete-account-btn:active {
+    transform: scale(0.95);
+}
 
 .window_content {
     text-align: left;
@@ -190,7 +208,6 @@ i.fa-brands {
 .typing-indicator {
     display: flex;
     align-items: center;
-    font-style: italic;
     color: #888;
 }
 
