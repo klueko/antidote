@@ -95,10 +95,10 @@ def query():
     else:
         search_results = search_bites(user_message, retriever, df)
         if search_results and "❌" not in search_results[0]:
-            prompt = "Voici les morsures correspondant à votre question :\n\n"
+            prompt = "Voici les recommandations médicales correspondant à votre question :\n\n"
             for bite in search_results:
                 prompt += f"- {bite}\n"
-            prompt += "\nPeux-tu donner des recommandations médicales comme si je m'étais fait mordre ? ?"
+            prompt += "\nPeux-tu donner des recommandations médicales comme si je m'étais fait mordre ?"
  
             response = query_ollama(prompt)
         else:
