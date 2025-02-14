@@ -36,7 +36,6 @@ class User(UserMixin, db.Model):
 def load_user(user_id):
     return db.session.get(User, int(user_id))
 
-# Route d'inscription
 @app.route('/register', methods=['GET', 'POST'])
 def register():
     if request.method == 'POST':

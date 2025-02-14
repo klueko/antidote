@@ -31,7 +31,6 @@ def search_bites(query, retriever, df):
 
     return results
 
-
 def query_ollama(prompt, model="llama3.2"):
     """Sends a request to Ollama (LLaMA 3.2) for a response."""
     print(f"Querying Ollama: {prompt[:100]}...")

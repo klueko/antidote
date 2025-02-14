@@ -36,11 +36,9 @@ def create_faiss_db(data=None):
 
     print(f"✅ {len(texts)} articles prêts pour l'indexation FAISS.")
 
-    # Generate embeddings
     embeddings = model.encode(texts, convert_to_tensor=False)
     print(f"✅ {len(embeddings)} embeddings générés avec succès.")
 
-    # HuggingFace Embeddings
     embedder = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
 
     # Create FAISS documents with metadata
