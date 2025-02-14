@@ -1,0 +1,3309 @@
+[
+    {
+        "Title":"[Un ensemble de mesures de résultats de base à l’échelle mondiale pour les essais cliniques sur les morsures de serpent].",
+        "Abstract":"Les essais cliniques sur les morsures de serpent ont souvent utilisé des mesures de résultats hétérogènes et il existe un besoin urgent de normalisation. Un groupe représentatif mondial de parties prenantes clés s'est réuni pour parvenir à un consensus sur un ensemble de mesures de résultats de base pertinentes à l'échelle mondiale. Les domaines de résultats et les instruments de mesure des résultats ont été identifiés grâce à une recherche dans la littérature et à une revue systématique des essais cliniques sur les morsures de serpent. Les domaines de résultats ont été présélectionnés à l'aide d'un questionnaire et un consensus a été atteint entre les parties prenantes et le groupe de patients grâce à des discussions et un vote facilités. Cinq mesures de résultats de base universelles devraient être incluses dans tous les futurs essais cliniques sur les morsures de serpent : mortalité, échelle d'évaluation de l'incapacité de l'OMS, échelle fonctionnelle spécifique au patient, réaction allergique aiguë selon les critères de Brown et maladie sérique selon des critères formels. Des mesures de résultats de base supplémentaires spécifiques au syndrome doivent être utilisées en fonction de l'espèce qui mord. Cet ensemble de mesures de résultats de base fournit une normalisation mondiale, soutient les priorités des patients et des cliniciens, permet une méta-analyse et est approprié pour une utilisation dans les milieux à faible et moyen revenu. Les essais cliniques sur les morsures de serpent ont souvent utilisé des critères de décision hétérogènes qui demandent à être standardisés. Un groupe d'acteurs clés mondialement représentatifs s'est réuni pour parvenir à un consensus sur un jeu universel de critères de décision de base. Les domaines d'intérêt et les instruments d'évaluation des critères de décision ont été identifiés à partir d'une recherche documentaire et d'un examen systématique des essais cliniques concernant les envenimations par morsure de serpent. Les domaines d'intérêt ont été présélectionnés à l'aide d'un questionnaire et un consensus a été obtenu entre le groupe d'acteurs et un groupe représentatif de patients à la suite de discussions orientées et d'un vote. Cinq critères de décision de base universels devraient être inclus dans tous les futurs essais cliniques sur les morsures de serpent : la mortalité, l'échelle d'évaluation du handicap de l'OMS, l'échelle fonctionnelle propre à chaque patient, la réaction allergique immédiate selon les critères de réaction de Brown et la maladie sérique en fonction de critères formels. D'autres critères de décision spécifiques aux différents syndromes observés lors des envenimations par morsure de serpent doivent être utilisés en fonction de l'espèce responsable de la morsure. Ce jeu universel de critères de décision de base permet une standardisation mondiale, répond aux priorités des patients et des cliniciens, favorise des méta-analyses et est compatible avec une utilisation dans les pays à revenus faibles ou intermédiaires.",
+        "PubMed ID":[
+            "38094484",
+            "34339410",
+            "35372700",
+            "25343828",
+            "31356474",
+            "36668842",
+            "28601268",
+            "26857682",
+            "23565941",
+            "28106331",
+            "18986210",
+            "34375338",
+            "23567063",
+            "21615299",
+            "30336845",
+            "24075725",
+            "26490786",
+            "15842354",
+            "23505437",
+            "31834923",
+            "28681707"
+        ],
+        "Publication Date":1702512000000,
+        "Authors":[
+            {
+                "lastname":"Abouyannis",
+                "firstname":"Michael",
+                "initials":"M",
+                "affiliation":"Centre for Snakebite Research and Interventions, Liverpool School of Tropical Medicine, Liverpool, Royaume-Uni. Kenya Medical Research Institute (KEMRI) - Wellcome Research Programme, Kilifi, Kenya."
+            },
+            {
+                "lastname":"Esmail",
+                "firstname":"Hanif",
+                "initials":"H",
+                "affiliation":"Medical Research Council Clinical Trials Unit at UCL, University College London, Londres, Royaume-Uni. Institute for Global Health, University College London, Londres, Royaume-Uni."
+            },
+            {
+                "lastname":"Hamaluba",
+                "firstname":"Mainga",
+                "initials":"M",
+                "affiliation":"Kenya Medical Research Institute (KEMRI) - Wellcome Research Programme, Kilifi, Kenya. Centre for Tropical Medicine & Global Health, Nuffield Department of Medicine, Oxford, Royaume-Uni."
+            },
+            {
+                "lastname":"Ngama",
+                "firstname":"Mwanajuma",
+                "initials":"M",
+                "affiliation":"Kenya Medical Research Institute (KEMRI) - Wellcome Research Programme, Kilifi, Kenya."
+            },
+            {
+                "lastname":"Mwangudzah",
+                "firstname":"Hope",
+                "initials":"H",
+                "affiliation":"Kenya Medical Research Institute (KEMRI) - Wellcome Research Programme, Kilifi, Kenya."
+            },
+            {
+                "lastname":"Mumba",
+                "firstname":"Noni",
+                "initials":"N",
+                "affiliation":"Kenya Medical Research Institute (KEMRI) - Wellcome Research Programme, Kilifi, Kenya."
+            },
+            {
+                "lastname":"Yeri",
+                "firstname":"Betty K",
+                "initials":"BK",
+                "affiliation":"Kenya Medical Research Institute (KEMRI) - Wellcome Research Programme, Kilifi, Kenya."
+            },
+            {
+                "lastname":"Mwalukore",
+                "firstname":"Salim",
+                "initials":"S",
+                "affiliation":"Kenya Medical Research Institute (KEMRI) - Wellcome Research Programme, Kilifi, Kenya."
+            },
+            {
+                "lastname":"Alphan",
+                "firstname":"Hassan J",
+                "initials":"HJ",
+                "affiliation":"Kenya Medical Research Institute (KEMRI) - Wellcome Research Programme, Kilifi, Kenya."
+            },
+            {
+                "lastname":"Aggarwal",
+                "firstname":"Dinesh",
+                "initials":"D",
+                "affiliation":"Department of Medicine, University of Cambridge, Royaume-Uni."
+            },
+            {
+                "lastname":"Alcoba",
+                "firstname":"Gabriel",
+                "initials":"G",
+                "affiliation":"Service de médecine, Médecins Sans Frontières, Genève, Suisse. Service de médecine tropicale et humanitaire, Hôpitaux universitaires de Genève, Genève, Suisse."
+            },
+            {
+                "lastname":"Cammack",
+                "firstname":"Nick",
+                "initials":"N",
+                "affiliation":"Wellcome Trust, Londres, Royaume-Uni."
+            },
+            {
+                "lastname":"Chippaux",
+                "firstname":"Jean-Philippe",
+                "initials":"JP",
+                "affiliation":"Université Paris Cité, Institut de Recherche pour le Développement (IRD), Unité « Mère et enfant en milieu tropical : pathogènes, système de santé et transition épidémiologique » (MERIT), Paris, France."
+            },
+            {
+                "lastname":"Coldiron",
+                "firstname":"Matthew E",
+                "initials":"ME",
+                "affiliation":"Epicentre, Paris, France."
+            },
+            {
+                "lastname":"Gutiérrez",
+                "firstname":"José M",
+                "initials":"JM",
+                "affiliation":"Instituto Clodomiro Picado, Facultad de Microbiología, Universidad de Costa Rica, San José, Costa Rica."
+            },
+            {
+                "lastname":"Habib",
+                "firstname":"Abdulrazaq G",
+                "initials":"AG",
+                "affiliation":"Bayero University Department of Infectious and Tropical Diseases, Kano, Nigéria."
+            },
+            {
+                "lastname":"Harrison",
+                "firstname":"Robert A",
+                "initials":"RA",
+                "affiliation":"Centre for Snakebite Research and Interventions, Liverpool School of Tropical Medicine, Liverpool, Royaume-Uni."
+            },
+            {
+                "lastname":"Isbister",
+                "firstname":"Geoffrey K",
+                "initials":"GK",
+                "affiliation":"Clinical Toxicology Research Group, University of Newcastle, Newcastle, NSW, Australie."
+            },
+            {
+                "lastname":"Lavonas",
+                "firstname":"Eric J",
+                "initials":"EJ",
+                "affiliation":"Department of Emergency Medicine, Denver Health and Hospital Authority, Denver, Colorado; Department of Emergency Medicine, University of Colorado School of Medicine, Aurora, Colorado, États-Unis."
+            },
+            {
+                "lastname":"Martins",
+                "firstname":"Diogo",
+                "initials":"D",
+                "affiliation":"Wellcome Trust, Londres, Royaume-Uni."
+            },
+            {
+                "lastname":"Ribeiro",
+                "firstname":"Isabela",
+                "initials":"I",
+                "affiliation":"Drugs for Neglected Diseases Initiative, Genève, Suisse."
+            },
+            {
+                "lastname":"Watson",
+                "firstname":"James A",
+                "initials":"JA",
+                "affiliation":"Centre for Tropical Medicine & Global Health, Nuffield Department of Medicine, Oxford, Royaume-Uni. Mahidol Oxford Research Unit, Faculty of Tropical Medicine, Mahidol University, Bangkok, Thaïlande."
+            },
+            {
+                "lastname":"Williams",
+                "firstname":"David J",
+                "initials":"DJ",
+                "affiliation":"Regulation and Prequalification Department, Access to Medicines and Health Products Division, Organisation mondiale de la Santé, Genève, Suisse Auteur correspondant : jean-philippe.chippaux@ird.fr."
+            },
+            {
+                "lastname":"Casewell",
+                "firstname":"Nicholas R",
+                "initials":"NR",
+                "affiliation":"Centre for Snakebite Research and Interventions, Liverpool School of Tropical Medicine, Liverpool, Royaume-Uni."
+            },
+            {
+                "lastname":"Walker",
+                "firstname":"Sarah A",
+                "initials":"SA",
+                "affiliation":"Medical Research Council Clinical Trials Unit at UCL, University College London, Londres, Royaume-Uni."
+            },
+            {
+                "lastname":"Lalloo",
+                "firstname":"David G",
+                "initials":"DG",
+                "affiliation":"Centre for Snakebite Research and Interventions, Liverpool School of Tropical Medicine, Liverpool, Royaume-Uni."
+            }
+        ]
+    },
+    {
+        "Title":"Incidence des morsures de serpents dans les communautés rurales vivant dans les zones de savane de Paoua et de forêt de Mbaïki en République centrafricaine.",
+        "Abstract":"Les morsures de serpents sont l’une des maladies tropicales négligées les plus meurtrières en Afrique avec plus de 20 000 décès signalés chaque année. Selon les données récentes des études hospitalières en République centrafricaine, le district sanitaire de Paoua rapporte entre 300 et 400 cas d’envenimation par les ophidiens chaque année. Cependant, aucune étude épidémiologique sur les morsures de serpents n’a été menée au niveau national, ni aucune stratégie de lutte élaborée. L’objectif de cette étude est de décrire les aspects épidémiologiques des morsures de serpents dans deux communautés rurales, l’une située en zone de savane et l’autre en zone forestière (forêt secondaire et primaire) afin d’assurer une gestion adéquate des morsures de serpents dans ces régions. Étude prospective communautaire dans deux districts sanitaires de la République Centrafricaine, le district sanitaire de Paoua en zone de savane et le district sanitaire de Mbaïki en zone forestière, de décembre 2019 à janvier 2021. Les morsures de serpents ont été enquêtées dans la communauté par des personnes formées sélectionnées chargées de rapporter les données concernant tous les cas connus de morsures de serpents survenus pendant la période d'étude. Les données ont été notifiées activement soit par le personnel de santé soit par les agents de santé communautaires afin de déterminer les circonstances et la gravité de la morsure, sa prise en charge et l'évolution clinique en cas d'envenimation. Au total, 412 cas de morsures de serpents ont été enregistrés au cours de la période d'étude, dont 198 cas survenus dans la communauté rurale de la zone forestière et 214 dans la communauté de la zone de savane. Le taux de létalité était de 5% en zone forestière et de 1% en zone de savane. FrançaisLe taux d'incidence des morsures de serpent était significativement plus élevé chez les enfants de la savane par rapport à ceux de la forêt (98\/100 000 vs. 25,1\/100 000 ; p<0,00001) alors que ce taux d'incidence était significativement plus faible à partir de 45 ans en zone de savane par rapport à la zone de forêt (167\/100 000 vs. 200\/100 000 ; p=0,02). Le taux de létalité des enfants et des adultes jusqu'à 44 ans semblait significativement plus élevé en zone de forêt (7 décès vs 1 décès). Les morsures de serpent étaient significativement plus fréquentes lors des activités de terrain en zone de savane qu'en zone de forêt (51% vs 26% ; p<0,0001). La symptomatologie des morsures était dominée par l'œdème du membre mordu et le saignement dans les deux zones d'étude, compatibles avec des syndromes cytotoxiques et hémorragiques dus aux morsures de vipères.  Avec un taux d'incidence de plus de 160 cas pour 100 000 habitants dans la population active âgée de 15 à 44 ans dans les communautés rurales de la zone forêt et savane, les morsures de serpent restent un problème de santé publique en République Centrafricaine. Une étude sur la toxicité des morsures de serpents en République Centrafricaine est recommandée. Par ailleurs, il est urgent de mettre à disposition des sérums anti-venineux dans les formations sanitaires afin de réduire la mortalité liée aux envenimations. L'objectif de cette étude est de décrire et de comparer les aspects épidémiologiques des morsures de serpent parmi les populations vivantes dans le milieu rural de la zone de savane de Paoua et de la zone de forêt de Mbaïki en République centrafricaine (RCA). Il s'agissait d'une étude prospective à base communautaire dans deux districts sanitaires en RCA, de décembre 2019 à janvier 2021. Tout cas de morsure de serpent rapporté par les enquêteurs communautaires a fait l'objet d'un questionnaire afin de déterminer l'incidence, les circonstances de survenue, la gravité de la morsure et l'itinéraire thérapeutique. Au total, 412 cas de morsures de serpent ont été recensés au cours de l’étude dont 198 cas dans la zone forestière et 214 dans la zone de savane. La létalité était de 5% dans la zone de forêt et de 1% dans la zone de savane. Le taux d'incidence des morsures de serpent était nettement plus élevé chez les enfants de savane en comparaison avec ceux de la forêt (98\/100 000 vs 25,1\/100 000; p < 0,00001), tandis que ce taux d'incidence était nettement plus bas à partir de 45 ans dans la zone de savane de Paoua sensiblement à la zone de forêt de Mbaïki (167\/100 000 contre 200\/100 000 ; p = 0,02). La létalité des enfants et des adultes jusqu’à 44 ans apparaissait nettement plus élevée en zone de forêt (7 décès vs 1 décès). Ces morsures survenaient beaucoup plus lors des activités agricoles dans la zone de savane que dans la zone de forêt (51% vs 26%, p < 0,0001). La symptomatologie était dominée par l’œdème et le trouble au point de morsure dans les deux zones d’études, compatibles avec un syndrome vipérin. Avec un taux d'incidence supérieur à 160 cas pour 100 000 habitants dans la population active de 15-44 ans et des communautés rurales de la zone de forêt et de savane, les morsures de serpent restent un problème de santé publique en RCA. Une étude sur les espèces et la survie de leurs veines en RCA est recommandée. Par ailleurs, il est urgent de rendre disponibles les sérums antivenimeux dans les formations périphériques afin de réduire la mortalité liée à ces envenimations.",
+        "PubMed ID":[
+            "36815179",
+            "16402573",
+            "16402585",
+            "16402571",
+            "9868843",
+            "12404867",
+            "34381993",
+            "26985188",
+            "16402572",
+            "27635098",
+            "31369551",
+            "17287747",
+            "28595590"
+        ],
+        "Publication Date":1677196800000,
+        "Authors":[
+            {
+                "lastname":"Zarambaud",
+                "firstname":"Romaric",
+                "initials":"R",
+                "affiliation":"École doctorale des sciences de la santé humaine et vétérinaire, Université de Bangui, avenue des Martyrs, Bangui, République centrafricaine. Département de santé publique, Faculté des sciences de la santé, Université de Bangui, avenue des Martyrs, Bangui, République centrafricaine."
+            },
+            {
+                "lastname":"Piamale",
+                "firstname":"Germain",
+                "initials":"G",
+                "affiliation":"École doctorale des sciences de la santé humaine et vétérinaire, Université de Bangui, avenue des Martyrs, Bangui, République centrafricaine. Département de santé publique, Faculté des sciences de la santé, Université de Bangui, avenue des Martyrs, Bangui, République centrafricaine."
+            },
+            {
+                "lastname":"Longo",
+                "firstname":"Jean de Dieu",
+                "initials":"JD",
+                "affiliation":"École doctorale des sciences de la santé humaine et vétérinaire, Université de Bangui, avenue des Martyrs, Bangui, République centrafricaine. Département de santé publique, Faculté des sciences de la santé, Université de Bangui, avenue des Martyrs, Bangui, République centrafricaine."
+            },
+            {
+                "lastname":"Diemer",
+                "firstname":"Henri Saint-Calvaire",
+                "initials":"HS",
+                "affiliation":"École doctorale des sciences de la santé humaine et vétérinaire, Université de Bangui, avenue des Martyrs, Bangui, République centrafricaine. Département de santé publique, Faculté des sciences de la santé, Université de Bangui, avenue des Martyrs, Bangui, République centrafricaine."
+            },
+            {
+                "lastname":"Gresenguet",
+                "firstname":"Gérard",
+                "initials":"G",
+                "affiliation":"École doctorale des sciences de la santé humaine et vétérinaire, Université de Bangui, avenue des Martyrs, Bangui, République centrafricaine. Département de santé publique, Faculté des sciences de la santé, Université de Bangui, avenue des Martyrs, Bangui, République centrafricaine."
+            }
+        ]
+    },
+    {
+        "Title":"Complication rare d'une morsure de chien : bactériémie à Capnocytophaga sp. suivie d'un syndrome hémolytique et urémique.",
+        "Abstract":"Les morsures de chien sont un motif fréquent de consultation médicale. Elles peuvent être responsables de complications infectieuses sévères. Les bactéries du genre Capnocytophaga spp sont des bacilles Gram-négatifs fréquemment retrouvés dans la cavité buccale de certains animaux comme les chiens et les chats. Suite à une morsure de chien ou à une contamination d'une plaie par la salive d'un animal, ces bactéries peuvent provoquer des manifestations locales (cellulite), systémiques et invasives (bactériémie, endocardite, méningite) ou conduire à des complications rares et redoutables comme les microangiopathies thrombotiques. L'identification des Capnocytophaga est lente en raison de leurs caractéristiques spécifiques et de leurs conditions de culture. Le traitement des infections à Capnocytophaga spp repose sur une antibiothérapie avec amoxicilline - acide clavulanique en premier choix. Bien que différents types de Capnocytophaga aient été décrits, C. Canimorsus semble être associé à un taux plus élevé de complications atypiques. Voici la description d'un patient immunocompétent qui a présenté une bactériémie à C. Canimorsus compliquée d'un syndrome hémolytique et urémique suite à une morsure de chien. Les morsures de chien représentent un motif fréquent de consultation. Celles-ci peuvent entraîner des complications infectieuses graves. Les bactéries du genre Capnocytophaga espèces sont des bacilles Gram négatif fréquemment retrouvés dans la cavité buccale de certains animaux comme les chiens et les chats. à la suite d'une morsure canine ou d'une contamination de plaie par de la salive animale, ces bactéries peuvent provoquer des manifestations locales (cellulite), systémiques et invasives (bactériémie, endocardite, méningite) ou entraîner des complications rares et redoutables comme les microangiopathies thrombotiques. L’identification des Capnocytophaga est lente de par leurs caractéristiques propres et leurs conditions de mise en culture. Le traitement des infections à Capnocytophaga espèces repose sur une antibiothérapie par amoxicilline-acide clavulanique en première intention. Bien que différents types de Capnocytophaga aient été décrits, C. Canimorsus semble associé à un taux plus élevé de complications atypiques. Nous décrivons ici le cas d’une patiente immunocompétente ayant présenté une bactériémie à C. Canimorsus compliquée d’un syndrome hémolytique et urémique dans les suites d’une morsure de chien.",
+        "PubMed ID":[
+            "36226390"
+        ],
+        "Publication Date":1665705600000,
+        "Authors":[
+            {
+                "lastname":"Naoussi",
+                "firstname":"F",
+                "initials":"F",
+                "affiliation":"Service d'Anesthésie-Réanimation, CHU Liège, Belgique."
+            },
+            {
+                "lastname":"De Neef",
+                "firstname":"A",
+                "initials":"A",
+                "affiliation":"Service d'Anesthésie-Réanimation, CHU Liège, Belgique."
+            },
+            {
+                "lastname":"Gilbert",
+                "firstname":"A",
+                "initials":"A",
+                "affiliation":"Service des Urgences,CHU Liège, Belgique."
+            },
+            {
+                "lastname":"Résimont",
+                "firstname":"G",
+                "initials":"G",
+                "affiliation":"Service de Néphrologie, CHU Liège, Belgique."
+            },
+            {
+                "lastname":"Weekers",
+                "firstname":"L",
+                "initials":"L",
+                "affiliation":"Service de Néphrologie, CHU Liège, Belgique."
+            },
+            {
+                "lastname":"Misset",
+                "firstname":"B",
+                "initials":"B",
+                "affiliation":"Service des Soins intensifs, CHU Liège, Belgique."
+            }
+        ]
+    },
+    {
+        "Title":"[Opinion du comité N",
+        "Abstract":"La maladie de Lyme est une infection émergente au Canada. Causée par une bactérie appartenant au complexe d'espèces Borrelia burgdorferi sensu lato, elle est transmise par la morsure d'une tique à pattes noires infectée. Les populations de tiques à pattes noires continuent de se propager et sont maintenant établies dans différentes régions du Canada. Il faut habituellement plus de 24 heures de temps d'attachement de la tique pour que la B. burgdorferi soit transmise à l'humain. Le diagnostic de la maladie de Lyme au stade localisé précoce est posé au moyen d'une évaluation clinique, puisque les analyses de laboratoire ne sont pas fiables à ce stade. La plupart des patients atteints de la maladie de Lyme au stade localisé précoce manifestent une lésion cutanée (c.-à-d. érythème migrant) qui s’étend à partir du site de la morsure et\/ou des symptômes non spécifiques qui rappellent l'influenza (p. ex. arthralgie, myalgie et fièvre). Les signes et symptômes peuvent se manifester de 3 à 30 jours après la morsure de tique. Il y a lieu de prendre en charge les patientes enceintes qui présentent une morsure de tique ou une maladie de Lyme soupçonnée en leur prodiguant des soins semblables à ceux de la population adulte non enceinte, ce qui implique d'envisager le recours aux antibiotiques pour la prophylaxie et le traitement. L'objectif principal de la présente opinion du comité est de renseigner les praticiens sur la maladie de Lyme et de fournir une façon d'aborder la prise en charge des soins prodigués aux femmes enceintes qui pourraient avoir été infectées par une morsure de tique à pattes noires. Les fournisseurs de soins de santé qui prodiguent des soins aux patientes enceintes ou aux femmes en âge de procréer. Les femmes en âge de procréer. En novembre 2018, des recherches ont été effectuées dans les bases de données Medline, EMBASE, PubMed et CENTRAL relativement à deux catégories principales : (1) maladie de Lyme, (2) autres maladies transmises par les tiques. Puisque la recherche était principalement axée sur la maladie de Lyme et compte tenu du nombre limité d'articles à ce sujet, aucun filtre supplémentaire n'a été appliqué pour la date de publication ou le type d’étude. Pour ce qui est des autres maladies transmises par les tiques, les résultats ont été restreints à une date de publication qui s'inscrit dans les 10 dernières années (2008–2018). Les termes de recherche ont été déterminés au moyen des termes de recherche MeSH et de mots clés : Lyme Disease, Pregnancy, Pregnant Women, Pregnancy Complications, Ehrlichiosis, Anaplasmosis, Rocky Mountain Spotted Fever, Babesiosis, Tularemia, Powassan Virus, Encephalitis Viruses, Tick-Borne, Tick-Borne Diseases, Colorado Tick Fever, Q Fever, Relapsing Fever, et Southern Tick-Associated Rash Illness. Tous les articles portant sur la maladie de Lyme et autres maladies transmises par les tiques comprenant une population cible de femmes enceintes ont été inclus; les autres groupes et populations ont été exclus. Le contenu et les recommandations de la présente opinion du comité ont été rédigés et acceptés par les auteurs. Le conseil d'administration de la Société des obstétriciens et gynécologues du Canada a approuvé la version définitive aux fins de publication.",
+        "PubMed ID":[
+            "32414480"
+        ],
+        "Publication Date":1589760000000,
+        "Authors":[
+            {
+                "lastname":"Smith",
+                "firstname":"Graeme N",
+                "initials":"GN",
+                "affiliation":"Kingston, Ont."
+            },
+            {
+                "lastname":"Moore",
+                "firstname":"Kieran M",
+                "initials":"KM",
+                "affiliation":"Kingston, Ont."
+            },
+            {
+                "lastname":"Hatchette",
+                "firstname":"Todd F",
+                "initials":"TF",
+                "affiliation":"Halifax, N.-É."
+            },
+            {
+                "lastname":"Nicholson",
+                "firstname":"Jennifer",
+                "initials":"J",
+                "affiliation":"Upper LaHave, N.-É."
+            },
+            {
+                "lastname":"Bowie",
+                "firstname":"William",
+                "initials":"W",
+                "affiliation":"Vancouver, C.-B."
+            },
+            {
+                "lastname":"Langley",
+                "firstname":"Joanne M",
+                "initials":"JM",
+                "affiliation":"Halifax, N.-É."
+            }
+        ]
+    },
+    {
+        "Title":"Morsures de serpents par des vipères européennes en France métropolitaine en 2017 : Utilisation de deux antivenins.",
+        "Abstract":"Aucun résumé",
+        "PubMed ID":[
+            "31133338"
+        ],
+        "Publication Date":1559001600000,
+        "Authors":[
+            {
+                "lastname":"Oxybel",
+                "firstname":"Yogan",
+                "initials":"Y",
+                "affiliation":"CHU d'Angers, Centre Antipoison Grand Ouest, 49100 Angers."
+            },
+            {
+                "lastname":"Sinno-Tellier",
+                "firstname":"Sandra",
+                "initials":"S",
+                "affiliation":"CHU d'Angers, Centre de Recherche Clinique, 49100 Angers."
+            },
+            {
+                "lastname":"Hamel",
+                "firstname":"Jean-François",
+                "initials":"JF",
+                "affiliation":"ANSES, Département Alertes et Vigilances sanitaires, 94700 Maison Alfort."
+            },
+            {
+                "lastname":"de Haro",
+                "firstname":"Luc",
+                "initials":"L",
+                "affiliation":"AP-HMarseille, Centre Antipoison, 13009 Marseille."
+            },
+            {
+                "lastname":"Boels",
+                "firstname":"David",
+                "initials":"D",
+                "affiliation":"Hôpital universitaire de Nantes, 44300 Nantes. Electronic address: david.boels@chu-nantes.fr."
+            }
+        ]
+    },
+    {
+        "Title":"[Risque de zoonoses par morsures et griffures d'animaux].",
+        "Abstract":"Risque de zoonoses par morsures et griffures animales. Les objectifs de cette étude sont d'identifier les risques de zoonoses liés aux morsures et griffures animales en France. Les zoonoses transmises par les animaux de compagnie, comme la pasteurellose, la maladie des griffes du chat et diverses infections bactériennes spécifiques, sont prédominantes, entraînant généralement des infections localisées ou, parfois, des infections systémiques graves (comme celles causées par Capnocytophaga canimorsus) chez les patients immunodéprimés. En revanche, la fièvre par morsure de rat due à Strepto bacillus monoliformis est rarement diagnostiquée chez l'homme. La France étant un pays indemne de rage chez les mammifères non volants, le risque d'exposition est limité aux patients en contact avec des animaux (essentiellement des chiens ou des chats non vaccinés) importés illicitement de zones d'enzootie rabique. Mais la population peut être exposée à des infections par des lyssavirus isolés de chauves-souris, comme les lyssavirus de la chauve-souris européenne de type 1 (EBLV-1) transmis par des chauves-souris sérotines (heureusement insectivores et ayant peu de contacts avec l'homme), et plus sérieusement en Guyane française, le virus de la rage transmis par des chauves-souris vampires. Enfin, le risque d'exposition des singes macaques asiatiques infectés par l'herpèsvirus B présent dans certains parcs zoologiques en France est négligeable pour la population générale. Risque de zoonoses par morsures et griffures animales. Les objectifs de cet article sont d’identifier les risques zoonotiques associés à des morsures et griffures animales en France. Les zoonoses transmises par des animaux de compagnie, comme la pasteurellose d'inoculation, la maladie des griffes du chat et diverses infections bactériennes spécifiques sont prédominantes, provoquant habituellement des infections localisées, parfois des infections systémiques sévères (comme celles causées par Capnocytophaga canimorsus) chez des patients immunodéprimés. En revanche, la « fièvre de la morsure du rat » due à Streptobacillus monoliformis est rarement observée chez les humains. La France étant indemne de rage des mammifères non volants, le risque d’exposition est limité à des contacts avec des animaux (surtout des chiens et des chats non vaccinés) introduits illicitement de zones d’enzootie rabique. La population reste néanmoins exposée à des infections par des lyssavirus isolés chez des chiroptères, comme le lyssavirus de la chauve-souris européenne de type 1 (EBLV-1) transmis par des sérotines (heureusement insectivores et n'ayant que peu de contact avec l'homme) et, plus gravement en Guyane, le virus rabique transmis par des chauves-souris vampires.Enfin, le risque d'exposition à des singes macaques asiatiques Les infections par l’herpèsvirus B découverts dans certains parcs zoologiques en France peuvent être qualifiées de négligeables pour la population générale.",
+        "PubMed ID":[
+            "30983262"
+        ],
+        "Publication Date":1555372800000,
+        "Authors":[
+            {
+                "lastname":"Ganière",
+                "firstname":"Jean-Pierre",
+                "initials":"JP",
+                "affiliation":"Ancien professeur en pathologie infectieuse, École nationale vétérinaire, agroalimentaire et de l'alimentation de Nantes-Atlantique, Oniris, Nantes, France."
+            }
+        ]
+    },
+    {
+        "Title":"[Morsures animales et humaines : que faire et que savoir ?].",
+        "Abstract":"Animal and human bites are a common cause of admission to the emergency room and the infections are common, although they are often trivialized. Complications can range from simple cellulitis to septic shock especially in asplenic patients with Capnoyctophaga canimorsus infection. Other less common infections are possible such as rat-bite fever, leptospirosis, tularemia, and evaluation of post-exposure prophylaxis (anti-tetanus, anti-rabies, HIV, HBV) is essential. Antibiotic prophylaxis remains controversial but is recommended for certain groups of patients and must cover common bite pathogens. Les morsures animales et humaines sont un motif fréquent d’admission aux urgences et leur infection est fréquente, alors qu’elles sont souvent banalisées. Les complications peuvent aller d’une simple dermohypodermite au choc septique, notamment chez les patients aspléniques lors d’infection à Capnocytophaga canimorsus. D’autres infections moins communes sont possibles comme la « rat-bite fever », la leptospirose, la tularémie, et l’évaluation des prophylaxies postexpositionnelles (antitétanique, antirabique ; VIH, VHB en cas de morsures humaines) est primordiale. L’antibioprophylaxie reste controversée, mais est recommandée pour certains groupes de patients, et se doit de couvrir les germes retrouvés fréquemment lors de morsures.",
+        "PubMed ID":[
+            "30969491"
+        ],
+        "Publication Date":1554940800000,
+        "Authors":[
+            {
+                "lastname":"Pham",
+                "firstname":"Truong-Thanh",
+                "initials":"TT",
+                "affiliation":"Service des maladies infectieuses, HUG, 1211 Genève 14. Service de chirurgie orthopédique et de traumatologie de l'appareil moteur, HUG, 1211 Genève 14."
+            },
+            {
+                "lastname":"De Marco",
+                "firstname":"Giacomo",
+                "initials":"G",
+                "affiliation":"Service de chirurgie orthopédique et de traumatologie de l'appareil moteur, HUG, 1211 Genève 14."
+            },
+            {
+                "lastname":"Bouvet",
+                "firstname":"Cindy",
+                "initials":"C",
+                "affiliation":"Service de chirurgie orthopédique et de traumatologie de l'appareil moteur, HUG, 1211 Genève 14."
+            },
+            {
+                "lastname":"Zanella",
+                "firstname":"Marie-Céline",
+                "initials":"MC",
+                "affiliation":"Service des maladies infectieuses, HUG, 1211 Genève 14."
+            },
+            {
+                "lastname":"Kaiser",
+                "firstname":"Laurent",
+                "initials":"L",
+                "affiliation":"Service des maladies infectieuses, HUG, 1211 Genève 14."
+            }
+        ]
+    },
+    {
+        "Title":"Complications aiguës d'une envenimation par morsure de serpent au service de réanimation du CHU-Mère Enfant « Luxembourg » de Bamako.",
+        "Abstract":"L'envenimation par morsure de serpent reste un problème de santé publique en Afrique. Le but de notre travail était d'étudier les complications aiguës de l'envenimation par morsure de serpent et les facteurs de risque de ses complications. Il s'agit d'une étude rétrospective et prospective sur une période de 07 ans, qui a été réalisée au service d'anesthésie réanimation et urgences du CHU-Mère Enfant « Luxembourg » de Bamako. Pendant cette période, 76 cas d'envenimation par ophidiens ont été enregistrés. L'âge moyen des patients était de 34 ± 12 ans. . La famille des vipères (Echis et Bitis) était la plus incriminée 84,61% des cas. Des complications hémorragiques ont été observées chez 78,94% des patients, d'autres complications (cardiovasculaires, neurologiques, dermatologiques, ophtalmologiques...) ont été observées chez 21,05% des patients. Le principal facteur de risque de complication observé était le retard de prise en charge (délai > 6 heures) chez 100% des patients. L'absence de sérothérapie et ou le recours initial au traitement traditionnel ont été des facteurs de risque de complication. La quasi-totalité des victimes de morsures d'Elapidae, 89,9% (5\/6 cas) sont décédées. La sérothérapie a été réalisée en urgence dans 97,4% des cas. La morbidité dans notre étude était de 10,52% avec une mortalité de 7,8%. dans notre contexte, la prise en charge des envenimations par morsure de serpent reste dépendante d'une multitude de complications. Le pronostic est conditionné par l'administration précoce d'un traitement symptomatique et d'un antidote spécifique. L'envenimation par morsure de serpent reste un problème de santé publique en Afrique. Notre travail avait pour objectif d'étudier les complications aiguës de l'envenimation par morsure de serpent, ainsi que les facteurs de risque de ses complications. Il s'agissait d'une étude rétrospective et prospective sur une période de 07 ans, qui a été réalisée dans le département d'anesthésie réanimation et des urgences du CHU-Mère enfant le « Luxembourg » de Bamako. Durant cette période, 76 cas d'envenimations ophidiennes ont été enregistrés. L'âge moyen des patients était de 34±12 ans. . La famille des vipéridés (Echis et Bitis) était la plus incriminée 84,61% des cas. Les complications hémorragiques ont été enregistrées chez 78,94% des patients, d'autres complications (cardiovasculaires, neurologiques, dermatologiques, ophtalmologiques...) ont été enregistrées chez 21,05% des patients. Le principal facteur de risque de survenu de complication observé, était le retard de prise en charge (délai> 6heures) Chez 100% des patients. L'absence de la sérothérapie et ou le recours initial à un traitement traditionnel ont été des facteurs de risques de complication. La presque totalité des victimes par morsures d'Elapidés soit 89,9% (5\/6 cas) sont décédées. La sérothérapie a été effectuée en urgence chez 97,4% des cas. La morbidité dans notre étude a été de 10,52% avec une mortalité à 7,8%. dans notre contexte, la prise en charge des envenimations par morsure de serpent reste tributaire d'une multitude de complications. Le pronostic est conditionné par l'administration précoce d'un traitement symptomatique et d'un antidote spécifique.",
+        "PubMed ID":[
+            "35897256"
+        ],
+        "Publication Date":1546300800000,
+        "Authors":[
+            {
+                "lastname":"Touré",
+                "firstname":"M K",
+                "initials":"MK",
+                "affiliation":"Département d'anesthésie réanimation et des urgences du CHU Mere enfant le « Luxembourg » de « Bamako."
+            },
+            {
+                "lastname":"Coulibaly",
+                "firstname":"M",
+                "initials":"M",
+                "affiliation":"Département d'anesthésie réanimation et des urgences du CHU Mere enfant le « Luxembourg » de « Bamako."
+            },
+            {
+                "lastname":"Koné",
+                "firstname":"J",
+                "initials":"J",
+                "affiliation":"Service d'anesthésie-réanimation du centre de référence commune V (Bamako)."
+            },
+            {
+                "lastname":"Diarra",
+                "firstname":"M S",
+                "initials":"MS",
+                "affiliation":"Service de Neurochirurgie du CHU-Mère enfant le « Luxembourg » de Bamako."
+            },
+            {
+                "lastname":"Coulibaly",
+                "firstname":"B B",
+                "initials":"BB",
+                "affiliation":"Département d'anesthésie réanimation et des urgences du CHU Mere enfant le « Luxembourg » de « Bamako."
+            },
+            {
+                "lastname":"Beye",
+                "firstname":"S A",
+                "initials":"SA",
+                "affiliation":"Département d'anesthésie réanimation et des urgences du CHU du Point G de Bamako."
+            },
+            {
+                "lastname":"Diallo",
+                "firstname":"B",
+                "initials":"B",
+                "affiliation":"Département d'anesthésie réanimation et des urgences du CHU du Point G de Bamako."
+            },
+            {
+                "lastname":"Dicko",
+                "firstname":"H",
+                "initials":"H",
+                "affiliation":"Département d'anesthésie réanimation et des urgences du CHU du Point G de Bamako."
+            },
+            {
+                "lastname":"Nientao",
+                "firstname":"O",
+                "initials":"O",
+                "affiliation":"Centre National d'odontostomatologie de Bamako."
+            },
+            {
+                "lastname":"Doumbia",
+                "firstname":"D",
+                "initials":"D",
+                "affiliation":"Département d'anesthésie réanimation et des urgences du CHU du Point G de Bamako."
+            },
+            {
+                "lastname":"Keita",
+                "firstname":"M",
+                "initials":"M",
+                "affiliation":"Département d'anesthésie réanimation et des urgences du CHU du Point G de Bamako."
+            },
+            {
+                "lastname":"Diawara",
+                "firstname":"S",
+                "initials":"S",
+                "affiliation":"Service de Neurochirurgie Hôpital National de Donka Conakry (Guinée)."
+            },
+            {
+                "lastname":"Samaké",
+                "firstname":"B M",
+                "initials":"BM",
+                "affiliation":"Département d'anesthésie réanimation et des urgences du CHU Gabriel Touré (Bamako)."
+            },
+            {
+                "lastname":"Diango",
+                "firstname":"M D",
+                "initials":"MD",
+                "affiliation":"Département d'anesthésie réanimation et des urgences du CHU Gabriel Touré (Bamako)."
+            },
+            {
+                "lastname":"Coulibaly",
+                "firstname":"Y",
+                "initials":"Y",
+                "affiliation":"Département d'anesthésie réanimation et des urgences du CHU du Point G de Bamako."
+            }
+        ]
+    },
+    {
+        "Title":"Morsures de serpent par Bothrops lanceolatus en Martinique.",
+        "Abstract":"Bothrops lanceolatus, membre de la famille des Viperidae et de la sous-famille des Crotalinae, est le seul serpent responsable d'envenimations en Martinique, seul endroit au monde où il existe. Toute morsure de ce serpent peut entraîner des complications thrombotiques sévères, notamment des infarctus cérébraux, pulmonaires et du myocarde, et altérer le pronostic vital ou fonctionnel du patient. La composition exacte du venin ainsi que les mécanismes de toxicité impliqués sont encore débattus aujourd'hui. La première immunothérapie antivenimeuse spécifique (IAV), Bothrofav1, fabriquée en 1991, a permis de réduire significativement la mortalité et la morbidité. Cependant, en 2004, une augmentation du nombre de cas d'accidents vasculaires cérébraux ischémiques induits par l'envenimation de Bothrops lanceolatus malgré une administration précoce d'IAV, a soulevé des questions sur son efficacité et encouragé le développement d'une seconde IAV, Bothrofav2, disponible depuis février 2011. Les causes des échecs de la première IAV restent hypothétiques et l'efficacité de la seconde est en cours d'évaluation. Cet article passe en revue les données publiées disponibles sur cette envenimation rare, présente dans l'un de nos départements d'outre-mer français et évoque ses fascinants enjeux scientifiques et médicaux.",
+        "PubMed ID":[
+            "29616641"
+        ],
+        "Publication Date":1522886400000,
+        "Authors":[
+            {
+                "lastname":"Resiere",
+                "firstname":"D",
+                "initials":"D",
+                "affiliation":"Service de réanimation polyvalente, CHU de Martinique, 97261 Fort-de-France."
+            },
+            {
+                "lastname":"Hossein",
+                "firstname":"M",
+                "initials":"M",
+                "affiliation":"Service de réanimation polyvalente, CHU de Martinique, 97261 Fort-de-France."
+            },
+            {
+                "lastname":"Megarbane",
+                "firstname":"B",
+                "initials":"B",
+                "affiliation":"Service réanimation médicale et toxicologique, CHU Lariboisière, Paris, France."
+            }
+        ]
+    },
+    {
+        "Title":"Morsures de serpents suisses et tropicaux : la prise en charge clinique.",
+        "Abstract":"With increasing trips to tropical areas, as well as a high number of venomous snake holders in the country, the frequency of snake bites is likely to increase. Even if in 50 % of cases, the bites do not lead to clinical envenoming, rapid and effective management is essential to successful treatment, which includes supply with the polyvalent or specific antivenom and recognition of the signs and symptoms justifying its administration. We will deal here mainly with local and tropical snake envenoming that Swiss practitioners could encounter in their offices or the emergency rooms and propose scenarios according to the syndromes. Avec l’augmentation des voyages dans les zones tropicales, de même que du nombre de détenteurs de serpents venimeux à domicile, la fréquence des morsures de serpents risque d’augmenter. Même si dans 50 % des cas les morsures ne conduisent pas à une envenimation clinique, une prise en charge rapide et ciblée améliore les chances de succès thérapeutique. Ceci suppose un approvisionnement avec l’antivenin polyvalent ou spécifique et la reconnaissance des signes et des symptômes justifiant son administration. Nous traiterons ici essentiellement des envenimations par des serpents locaux ou tropicaux que le praticien suisse pourrait rencontrer au cabinet ou aux urgences en nous basant sur quelques vignettes et en proposant des scénarios en fonction des syndromes.",
+        "PubMed ID":[
+            "28627854"
+        ],
+        "Publication Date":1497916800000,
+        "Authors":[
+            {
+                "lastname":"Rochat",
+                "firstname":"Laurence",
+                "initials":"L",
+                "affiliation":"Centre de vaccination et médecine des voyages, Policlinique médicale universitaire, 1011 Lausanne."
+            },
+            {
+                "lastname":"Alcoba",
+                "firstname":"Gabriel",
+                "initials":"G",
+                "affiliation":"Service de médecine tropicale et humanitaire, HUG, 1211 Genève 14."
+            }
+        ]
+    },
+    {
+        "Title":"Plaies contaminées : efficacité du débridement pour réduire la charge bactérienne.",
+        "Abstract":"La prise en charge chirurgicale des plaies contaminées de la main peut paraître anecdotique, mais ces plaies représentent une part non négligeable de l'activité des centres d'urgence de la main et les recommandations émises par les sociétés savantes divergent. La prise en charge efficace de ce problème de santé publique nécessite de clarifier l'utilité des différents traitements disponibles. L'objectif de notre étude était de déterminer l'efficacité du débridement chirurgical. Dans cette étude prospective, 92 patients présentant des plaies contaminées de la main ont subi un débridement chirurgical. Les critères de sélection comprenaient le délai entre la blessure et le traitement et le mécanisme de la blessure. Les patients présentant des plaies infectées, ceux traités par antibiotiques, les patients immunodéprimés ou atteints d'arthrose ont été exclus. Des échantillons cutanés ont été prélevés avant et après le débridement. Dans 62 % des cas, les plaies étaient contaminées avant le débridement. Après l'intervention, 87 % des frottis bactériens étaient négatifs. La comparaison entre les résultats du débridement et du frottis était statistiquement significative (test t de Student, p < 0,001). Le débridement chirurgical, avec une irrigation appropriée, peut éradiquer efficacement la flore bactérienne due à la contamination.",
+        "PubMed ID":[
+            "27781990"
+        ],
+        "Publication Date":1477526400000,
+        "Authors":[
+            {
+                "lastname":"Pomares",
+                "firstname":"G",
+                "initials":"G",
+                "affiliation":"Service de chirurgie plastique et reconstructrice de l'appareil locomoteur, centre chirurgical Émile-Gallé, CHU de Nancy, 49, rue Hermite, 54000 Nancy, France. Electronic address: germain.pomares@icloud.com."
+            },
+            {
+                "lastname":"Huguet",
+                "firstname":"S",
+                "initials":"S",
+                "affiliation":"Service de chirurgie plastique et reconstructrice de l'appareil locomoteur, centre chirurgical Émile-Gallé, CHU de Nancy, 49, rue Hermite, 54000 Nancy, France."
+            },
+            {
+                "lastname":"Dap",
+                "firstname":"F",
+                "initials":"F",
+                "affiliation":"Service de chirurgie plastique et reconstructrice de l'appareil locomoteur, centre chirurgical Émile-Gallé, CHU de Nancy, 49, rue Hermite, 54000 Nancy, France."
+            },
+            {
+                "lastname":"Dautel",
+                "firstname":"G",
+                "initials":"G",
+                "affiliation":"Service de chirurgie plastique et reconstructrice de l'appareil locomoteur, centre chirurgical Émile-Gallé, CHU de Nancy, 49, rue Hermite, 54000 Nancy, France."
+            }
+        ]
+    },
+    {
+        "Title":"Prise en charge chirurgicale des morsures d'animaux chez l'enfant.",
+        "Abstract":"Les enfants représentent une population à risque, du fait de leur petite taille, de leur naïveté et de leur attirance pour les animaux. Le visage et les mains sont les localisations les plus spécifiques chez le jeune enfant. Les plaies sont souvent multiples. Dans plus de la moitié des cas, l'enfant connaît l'animal, qui sont les chiens et les chats par argument de fréquence. L'épisode de morsure survient le plus souvent lorsque l'enfant est seul avec l'animal sans surveillance directe, en jouant ou en le caressant. Comme dans toutes les morsures, les lésions pédiatriques sont des urgences infectieuses, fonctionnelles et esthétiques, mais l'objectif de ce travail était avant tout de faire un point sur les principes de prise en charge chirurgicale des morsures animales chez l'enfant, en mettant en évidence les spécificités pédiatriques. Les morsures animales nécessitent un traitement psychologique, anesthésique et chirurgical, adapté à l'enfant, dans une structure spécialisée. L'hospitalisation et l'anesthésie générale sont plus fréquentes chez l'enfant. Toute suspicion de maltraitance (et\/ou de maltraitance) doit conduire à l'hospitalisation de l'enfant, même si les plaies ne justifient pas une surveillance en milieu chirurgical. La chirurgie en urgence est indispensable pour limiter les conséquences fonctionnelles et esthétiques. Les capacités de cicatrisation de l'enfant et l'absence fréquente de comorbidité permettent un traitement chirurgical conservateur avec suture, repositionnement de lambeaux cutanés et cicatrisation contrôlée dans un premier temps. Une immobilisation, un drainage et des antibiotiques complèteront l'intervention. Le processus de cicatrisation nécessite cependant une prise en charge spécifique pendant la phase de remodelage et de croissance de la cicatrice. La prise en charge psychologique de l'enfant et des parents ne doit pas être oubliée et doit débuter en même temps que le traitement chirurgical en phase aiguë.",
+        "PubMed ID":[
+            "27545658"
+        ],
+        "Publication Date":1476835200000,
+        "Authors":[
+            {
+                "lastname":"Touzet-Roumazeille",
+                "firstname":"S",
+                "initials":"S",
+                "affiliation":"Chirurgie maxillo-faciale, hôpital Salengro, CHRU de Lille, rue Emile-Laine, 59037 Lille, France."
+            },
+            {
+                "lastname":"Jayyosi",
+                "firstname":"L",
+                "initials":"L",
+                "affiliation":"Chirurgie plastique reconstructrice et esthétique, hôpital Maison-Blanche, CHU de Reims, 45, rue Cognacq-Jay, 51100 Reims, France."
+            },
+            {
+                "lastname":"Plenier",
+                "firstname":"Y",
+                "initials":"Y",
+                "affiliation":"Urgences chirurgicales pédiatriques, American Memorial Hospital, CHU de Reims, 47, rue Cognacq-Jay, 51100 Reims, France."
+            },
+            {
+                "lastname":"Guyot",
+                "firstname":"E",
+                "initials":"E",
+                "affiliation":"Département d'anesthésie et réanimation, American Memorial Hospital, CHU de Reims, 47, rue Cognacq-Jay, 51100 Reims, France."
+            },
+            {
+                "lastname":"Guillard",
+                "firstname":"T",
+                "initials":"T",
+                "affiliation":"Laboratoire de bactériologie-virologie-hygiène, hôpital Robert-Debré, avenue du Général-Koenig, 51100 Reims, France."
+            },
+            {
+                "lastname":"François",
+                "firstname":"C",
+                "initials":"C",
+                "affiliation":"Chirurgie plastique reconstructrice et esthétique, hôpital Maison-Blanche, CHU de Reims, 45, rue Cognacq-Jay, 51100 Reims, France; Chirurgie pédiatrique, American Memorial Hospital, CHU de Reims, 47, rue Cognacq-Jay, 51100 Reims, France; EA 3801, université de Reims-Champagne-Ardenne, 51, rue Cognacq-Jay, 51100 Reims, France. Electronic address: caroline_francois@icloud.com."
+            }
+        ]
+    },
+    {
+        "Title":"[6e Conférence internationale sur les envenimations par morsures de serpents et piqûres de scorpions en Afrique : une étape cruciale pour la gestion des envenimations].",
+        "Abstract":"Aucun résumé",
+        "PubMed ID":[
+            "26878169"
+        ],
+        "Publication Date":1455580800000,
+        "Authors":[
+            {
+                "lastname":"Chippaux",
+                "firstname":"J-P",
+                "initials":"JP",
+                "affiliation":"UMR 216 Institut de recherche pour le développement, 08 BP 841, Cotonou, Bénin, UMR 216-Merit, Institut de recherche pour le développement, 4, avenue de l'Observatoire 75006 Paris, Cerpage, faculté des sciences de la santé, 01 BP 188, Cotonou, Bénin."
+            },
+            {
+                "lastname":"Akaffou",
+                "firstname":"M",
+                "initials":"M",
+                "affiliation":"Unité d'entomologie\/herpétologie, institut Pasteur de Côte d'Ivoire, Abidjan, Côte d'Ivoire."
+            },
+            {
+                "lastname":"Allali",
+                "firstname":"B",
+                "initials":"B",
+                "affiliation":"Unité d'entomologie\/herpétologie, institut Pasteur de Côte d'Ivoire, Abidjan, Côte d'Ivoire."
+            },
+            {
+                "lastname":"Dosso",
+                "firstname":"M",
+                "initials":"M",
+                "affiliation":"Unité d'entomologie\/herpétologie, institut Pasteur de Côte d'Ivoire, Abidjan, Côte d'Ivoire."
+            },
+            {
+                "lastname":"Massougbodji",
+                "firstname":"A",
+                "initials":"A",
+                "affiliation":"Cerpage, faculté des sciences de la santé, 01 BP 188, Cotonou, Bénin."
+            }
+        ]
+    },
+    {
+        "Title":"[Gestion des morsures de serpents en Afrique subsaharienne].",
+        "Abstract":"Bien que fréquentes en Afrique subsaharienne, les morsures de serpents restent un sujet négligé. L'article passe en revue quelques règles diagnostiques et thérapeutiques de cette urgence médico-chirurgicale qui survient principalement dans les centres de santé éloignés. L'administration intraveineuse d'un sérum antivenimeux polyvalent est le traitement privilégié en cas d'envenimation avérée. Le sérum antivenimeux doit être associé à un traitement symptomatique. La surveillance des patients est bien codifiée et la prise en charge des complications est précisée.",
+        "PubMed ID":[
+            "26039508"
+        ],
+        "Publication Date":1433376000000,
+        "Authors":[
+            {
+                "lastname":"Chippaux",
+                "firstname":"J-P",
+                "initials":"JP",
+                "affiliation":"UMR 216, Mère et enfant face aux infections tropicales, Institut de recherche pour le developpement (IRD), 08 BP 841, Cotonou, Bénin."
+            }
+        ]
+    },
+    {
+        "Title":"[Fréquence des morsures d'animaux].",
+        "Abstract":"Aucun résumé",
+        "PubMed ID":[
+            "25763422"
+        ],
+        "Publication Date":1426204800000,
+        "Authors":[
+            {
+                "lastname":"Bourée",
+                "firstname":"P",
+                "initials":"P",
+                "affiliation":null
+            }
+        ]
+    },
+    {
+        "Title":"[Morsures de serpent].",
+        "Abstract":"Aucun résumé",
+        "PubMed ID":[
+            "25580495"
+        ],
+        "Publication Date":1421107200000,
+        "Authors":[
+            {
+                "lastname":"Boureé",
+                "firstname":"P",
+                "initials":"P",
+                "affiliation":null
+            }
+        ]
+    },
+    {
+        "Title":"[Prophylaxie antibiotique des piqûres chez l'enfant].",
+        "Abstract":"Les enfants sont souvent victimes de morsures de chien ou de chat, mais les morsures humaines sont plus rares. L'infection est la complication la plus fréquente. Un très grand nombre d'espèces bactériennes, anaérobies et aérobies souvent associées, sont retrouvées dans les prélèvements locaux. L'antibiothérapie n'est pas systématique et doit être discutée au cas par cas en tenant compte des facteurs de risque : le type de morsure animale, la localisation et la profondeur de la morsure, le délai de traitement. Les patients immunodéprimés ou ayant subi une splénectomie ont un risque élevé d'infections sévères ou de bactéries inhabituelles et doivent être traités préventivement. L'association amoxicilline et acide clavulanique est l'antibiotique le plus actif sur la majorité des bactéries responsables d'infections. Le traitement doit être initié rapidement et poursuivi pendant 3 à 5 jours avec surveillance des signes locaux.",
+        "PubMed ID":[
+            "24360308"
+        ],
+        "Publication Date":1387843200000,
+        "Authors":[
+            {
+                "lastname":"Quinet",
+                "firstname":"B",
+                "initials":"B",
+                "affiliation":"Groupe de pathologie infectieuse pédiatrique de la Société française de pédiatrie; Service de pédiatrie générale, hôpital Armand-Trousseau, 26 avenue du Docteur-Arnold-Netter, 75571 Paris Cedex 12, France. Electronic address: beatrice.quinet@trs.aphp.fr."
+            },
+            {
+                "lastname":"Grimprel",
+                "firstname":"E",
+                "initials":"E",
+                "affiliation":"Groupe de pathologie infectieuse pédiatrique de la Société française de pédiatrie; Service de pédiatrie générale, hôpital Armand-Trousseau, 26 avenue du Docteur-Arnold-Netter, 75571 Paris Cedex 12, France; Université Pierre-et-Marie-Curie, Paris 6, 4 place Jussieu, 75005 Paris, France."
+            }
+        ]
+    },
+    {
+        "Title":"Aspects épidémiologiques, cliniques et thérapeutiques des morsures de serpents dans les hôpitaux nationaux Gabriel-Touré et Kati au Mali : étude rétrospective sur dix ans.",
+        "Abstract":"Une étude rétrospective a été réalisée sur les morsures de serpents de janvier 1993 à décembre 2002 dans les hôpitaux nationaux Gabriel-Touré de Bamako et de Kati. Elle avait pour objectif d'établir une synthèse des aspects épidémiologiques, cliniques et thérapeutiques des morsures de serpents. Huit cent trente-deux morsures de serpents ont été enregistrées au cours de cette période. Les hommes étaient majoritairement représentés : 72 contre 28% de femmes. L'âge moyen était de 28 ± 18 ans. Les agriculteurs étaient les plus touchés (28%). La plupart des morsures survenaient entre 16 et 20 heures, au cours des travaux des champs et au pâturage dans 44% des cas. Les membres inférieurs (73,8%) étaient plus atteints que les mains (25,8%). Bien que le type de serpent n'ait pas été déterminé, le tableau clinique était celui d'un syndrome de vipère dont la gravité était appréciée par le grade du saignement, l'œdème, l'atteinte rénale (15,8%) et les troubles neurologiques (13,3%). Français L'antivenin a été administré à 40,6 % des patientes dont le taux de létalité était de 2,8 %, alors qu'il était de 8,1 % en son absence. Le taux de létalité associé à la sérothérapie variait selon l'antivenin, 1,5 % avec les antivenins fabriqués en Europe et 4 % avec ceux fabriqués en Asie. Cinq parturientes ont eu une évolution favorable avec l'antivenin. La prise en charge initiale a été effectuée par des tradipraticiens dans 49,7 % des cas. Le taux de létalité annuel a diminué progressivement de 12 % en 1995 à 3 % en 2002. L'incidence des morsures de serpent est largement sous-estimée dans les hôpitaux en raison d'un manque de dossiers.",
+        "PubMed ID":[
+            "22707257"
+        ],
+        "Publication Date":1340064000000,
+        "Authors":[
+            {
+                "lastname":"Dramé",
+                "firstname":"B S I",
+                "initials":"BS",
+                "affiliation":"CHU-hôpital du Mali, Missabougou, Bamako, Mali. bdrameml@yahoo.fr"
+            },
+            {
+                "lastname":"Diarra",
+                "firstname":"A",
+                "initials":"A",
+                "affiliation":null
+            },
+            {
+                "lastname":"Diani",
+                "firstname":"N",
+                "initials":"N",
+                "affiliation":null
+            },
+            {
+                "lastname":"Dabo",
+                "firstname":"A",
+                "initials":"A",
+                "affiliation":null
+            }
+        ]
+    },
+    {
+        "Title":"[Morsures d'animaux - prévention de la rage].",
+        "Abstract":"Aucun résumé",
+        "PubMed ID":[
+            "22335084"
+        ],
+        "Publication Date":1329523200000,
+        "Authors":[
+            {
+                "lastname":"May",
+                "firstname":"Olivia",
+                "initials":"O",
+                "affiliation":"Service de maladies infectieuses, hôpitaux de Brabois, 54500 Vandoeuvre-lès-Nancy, France."
+            },
+            {
+                "lastname":"May",
+                "firstname":"Thierry",
+                "initials":"T",
+                "affiliation":null
+            }
+        ]
+    },
+    {
+        "Title":"[4ème conférence internationale sur les morsures de serpents et les piqûres de scorpions à Dakar, du 25 au 29 avril 2011].",
+        "Abstract":"Aucun résumé",
+        "PubMed ID":[
+            "22235608"
+        ],
+        "Publication Date":1326412800000,
+        "Authors":[
+            {
+                "lastname":"Chippaux",
+                "firstname":"J P",
+                "initials":"JP",
+                "affiliation":"Cerpage et IRD (UMR 216) \"Mère et enfant face aux infections tropicales, Cotonou, Bénin. jean-philippe.chippaux@ird.fr"
+            },
+            {
+                "lastname":"Diouf",
+                "firstname":"A",
+                "initials":"A",
+                "affiliation":null
+            },
+            {
+                "lastname":"Massougbodji",
+                "firstname":"A",
+                "initials":"A",
+                "affiliation":null
+            },
+            {
+                "lastname":"Stock",
+                "firstname":"R P",
+                "initials":"RP",
+                "affiliation":null
+            },
+            {
+                "lastname":"Kane",
+                "firstname":"O",
+                "initials":"O",
+                "affiliation":null
+            },
+            {
+                "lastname":"Dièye",
+                "firstname":"A M",
+                "initials":"AM",
+                "affiliation":null
+            },
+            {
+                "lastname":"Lam",
+                "firstname":"Faye A",
+                "initials":"FA",
+                "affiliation":null
+            },
+            {
+                "lastname":"Mbaye",
+                "firstname":"Sène M",
+                "initials":"SM",
+                "affiliation":null
+            },
+            {
+                "lastname":"Parra",
+                "firstname":"H J",
+                "initials":"HJ",
+                "affiliation":null
+            }
+        ]
+    },
+    {
+        "Title":"Blessures faciales par morsures de chien chez l'enfant : étude rétrospective de 77 cas.",
+        "Abstract":"La face est la région la plus vulnérable aux morsures de chien chez l'enfant. La prise en charge chirurgicale est une urgence pour prévenir les conséquences infectieuses, fonctionnelles et esthétiques. L'objectif de cette étude était de définir une nouvelle échelle de gravité et de déterminer une politique de prévention. Dans notre service de chirurgie maxillo-faciale et plastique, nous avons mené une étude rétrospective de 2002 à 2010, incluant 77 enfants de moins de 16 ans, victimes de morsures de chien au visage. Nous avons analysé les données épidémiologiques, cliniques et les résultats chirurgicaux. L'âge moyen était de 5,36 ans. Les chiens étaient principalement représentés par des chiens de classe I et II ; 27,7% d'entre eux avaient déjà mordu auparavant. Dans la quasi-totalité des cas, les chiens appartiennent à la famille ou aux proches. Vingt et un pour cent des enfants appartiennent à un environnement social défavorable ; 71,43% des morsures de chien concernaient la zone centrale de la face. Les morsures étaient profondes dans 77% des cas avec amputation ou perte de substance étendue dans 31% des cas. Le délai de cicatrisation a été de 10,54 mois. Près d'un tiers des patients ont nécessité plusieurs interventions chirurgicales ; 41,56 % des patients ont eu des séquelles esthétiques et fonctionnelles ; 35,1 % des enfants ont eu des problèmes psychologiques par la suite. Les morsures de chien au visage chez l'enfant nécessitent une approche multidisciplinaire et un suivi à long terme. Nous proposons une nouvelle classification de la gravité des morsures de chien, plus adaptée au visage.",
+        "PubMed ID":[
+            "22196398"
+        ],
+        "Publication Date":1324944000000,
+        "Authors":[
+            {
+                "lastname":"Hersant",
+                "firstname":"B",
+                "initials":"B",
+                "affiliation":"Service de chirurgie maxillofaciale et plastique, hôpital d'enfants Armand-Trousseau, UFR Pierre-et-Marie-Curie, université Pierre-et-Marie-Curie-Paris-6, AP-HP, 26 avenue du Docteur-Arnold-Netter, Paris, France."
+            },
+            {
+                "lastname":"Cassier",
+                "firstname":"S",
+                "initials":"S",
+                "affiliation":null
+            },
+            {
+                "lastname":"Constantinescu",
+                "firstname":"G",
+                "initials":"G",
+                "affiliation":null
+            },
+            {
+                "lastname":"Gavelle",
+                "firstname":"P",
+                "initials":"P",
+                "affiliation":null
+            },
+            {
+                "lastname":"Vazquez",
+                "firstname":"M-P",
+                "initials":"MP",
+                "affiliation":null
+            },
+            {
+                "lastname":"Picard",
+                "firstname":"A",
+                "initials":"A",
+                "affiliation":null
+            },
+            {
+                "lastname":"Kadlub",
+                "firstname":"N",
+                "initials":"N",
+                "affiliation":null
+            }
+        ]
+    },
+    {
+        "Title":"[Compte-rendu de la 4e Conférence internationale sur les envenimations par morsures de serpents et piqûres de scorpions en Afrique, Dakar, 25-29 avril 2011].",
+        "Abstract":"Les auteurs présentent une synthèse des actes et des recommandations de la quatrième conférence internationale sur les envenimations par morsures de serpents et piqûres de scorpions en Afrique, qui s'est tenue du 25 au 29 avril 2011 à Dakar. Après un atelier de deux jours destiné au personnel de santé sénégalais sur les aspects les plus pertinents de la prise en charge des envenimations, environ 270 participants se sont retrouvés pour partager leurs expériences sur le terrain. Près d'une centaine de communications orales et par posters ont été faites sur l'épidémiologie des morsures de serpents et piqûres de scorpions en Afrique, la composition et l'action des venins et la fabrication et l'utilisation des antivenins. La dernière journée a été consacrée à un débat institutionnel impliquant des experts, des représentants des autorités sanitaires nationales et des professionnels concernés (médecins, pharmaciens, infirmiers et tradipraticiens) ainsi que des membres de l'industrie pharmaceutique pour discuter et élaborer un ensemble de recommandations. Il a été convenu qu'il est nécessaire d'améliorer la connaissance de la situation épidémiologique par la déclaration des cas. Le contrôle de la qualité des antivenins et les procédures d’enregistrement au niveau des autorités sanitaires nationales devraient viser à améliorer la distribution d’antivenins sûrs et efficaces dans les centres de santé périphériques pour une meilleure évaluation des victimes. Il a également été recommandé de fournir une formation adéquate au personnel de santé dans tous les aspects de la prise en charge médicale des envenimations. La répartition équitable des financements et la création d’un réseau d’experts africains ont également été évoquées lors de la conférence.",
+        "PubMed ID":[
+            "22006245"
+        ],
+        "Publication Date":1318982400000,
+        "Authors":[
+            {
+                "lastname":"Chippaux",
+                "firstname":"J-P",
+                "initials":"JP",
+                "affiliation":"Cerpage et IRD (UMR 216) « Mère et enfant face aux infections tropicales, Cotonou, Bénin, jean-philippe.chippaux@ird.fr."
+            },
+            {
+                "lastname":"Diouf",
+                "firstname":"A",
+                "initials":"A",
+                "affiliation":null
+            },
+            {
+                "lastname":"Massougbodji",
+                "firstname":"A",
+                "initials":"A",
+                "affiliation":null
+            },
+            {
+                "lastname":"Stock",
+                "firstname":"R P",
+                "initials":"RP",
+                "affiliation":null
+            },
+            {
+                "lastname":"Kane",
+                "firstname":"O",
+                "initials":"O",
+                "affiliation":null
+            },
+            {
+                "lastname":"Dièye",
+                "firstname":"A M",
+                "initials":"AM",
+                "affiliation":null
+            },
+            {
+                "lastname":"Lam Faye",
+                "firstname":"A",
+                "initials":"A",
+                "affiliation":null
+            },
+            {
+                "lastname":"Mbaye Sène",
+                "firstname":"M",
+                "initials":"M",
+                "affiliation":null
+            },
+            {
+                "lastname":"Parra",
+                "firstname":"H-J",
+                "initials":"HJ",
+                "affiliation":null
+            }
+        ]
+    },
+    {
+        "Title":"[Morsures de vipères pédiatriques].",
+        "Abstract":"Les morsures de vipères et leur évolution vers des envenimations sévères sont plus fréquentes chez l'enfant que chez l'adulte. Décrire les caractéristiques cliniques, biologiques et thérapeutiques des enfants mordus par des vipères et identifier les facteurs de risque associés aux envenimations sévères correspondant aux grades II et III de la classification d'Audebert et al. (Toxicon 1992). Une étude rétrospective a été menée entre 2001 et 2009 au service des urgences pédiatriques d'un hôpital tertiaire pour enfants. Les données recueillies étaient : âge et sexe des enfants ; jour et heure d'admission ; jour, heure et circonstances de l'accident ; identification du serpent ; localisation de la morsure ; gravité de l'envenimation selon la classification d'Audebert et al. ; présence de traces de crocs ; prise en charge préhospitalière ; recours à une immunothérapie spécifique (Viperfav(®)), traitements associés ; durée de séjour ; orientation, évolution et éventuelles complications. Cinquante-huit enfants ont été inclus (43 garçons, 15 filles). Français L'âge moyen était de 7,8 ± 4,1 ans (extrêmes, 1,8-15 ans). Les morsures se produisaient plus souvent entre 12h00 et 18h00 (62 %), et étaient le plus souvent localisées aux membres inférieurs (77 %). La classification des envenimations était la suivante : 83 % de bas grade (grade 0, absence d'envenimation, présence de marques de crocs ; grade I, envenimation mineure) et 17 % de haut grade (grades II et III, envenimations modérées et sévères). Toutes les envenimations de haut grade ont reçu une immunothérapie spécifique (fragments F(ab')(2) de Viperfav(®) contre Vipera aspis, Vipera berus et Vipera ammodytes). Le délai moyen entre la morsure et l'injection de Viperfav(®) était de 23 ± 11 h (extrêmes, 8-36 h). Une morsure aux extrémités supérieures (p < 0,001), dans l'après-midi (p = 0,025), une douleur violente immédiate (p = 0,037) et une glycémie initiale élevée (p = 0,016) étaient associées à un risque significatif d'évolution vers une envenimation de haut grade. Il n'y avait pas de corrélation significative entre l'âge, le sexe et la morsure aux extrémités supérieures. Dans le modèle final de l'analyse statistique multivariée, trois facteurs restaient associés à ce risque : la localisation de la morsure aux extrémités supérieures (risque relatif [RR] = 60,5 [3,5-1040[; p = 0,005), la douleur violente immédiate (RR = 21,5 [1,3-364,5[; p = 0,03) et le sexe féminin (RR = 17,5 [0,9-320,3[; p = 0,053). Un certain nombre de critères semblent associés à un risque plus important d'évolution vers une envenimation de haut grade après morsure de vipère. Ces résultats doivent être étudiés sur une cohorte plus large de patients. Les morsures des membres supérieurs doivent être traitées avec prudence en raison de l'association à une envenimation plus sévère.",
+        "PubMed ID":[
+            "21963379"
+        ],
+        "Publication Date":1317686400000,
+        "Authors":[
+            {
+                "lastname":"Claudet",
+                "firstname":"I",
+                "initials":"I",
+                "affiliation":"Urgences pédiatriques, hôpital des Enfants, Toulouse, France. claudet.i@chu-toulouse.fr"
+            },
+            {
+                "lastname":"Gurrera",
+                "firstname":"E",
+                "initials":"E",
+                "affiliation":null
+            },
+            {
+                "lastname":"Maréchal",
+                "firstname":"C",
+                "initials":"C",
+                "affiliation":null
+            },
+            {
+                "lastname":"Cordier",
+                "firstname":"L",
+                "initials":"L",
+                "affiliation":null
+            },
+            {
+                "lastname":"Honorat",
+                "firstname":"R",
+                "initials":"R",
+                "affiliation":null
+            },
+            {
+                "lastname":"Grouteau",
+                "firstname":"E",
+                "initials":"E",
+                "affiliation":null
+            }
+        ]
+    },
+    {
+        "Title":"Morsures de serpents aux urgences de l'hôpital national de Niamey, Niger.",
+        "Abstract":"Cette étude avait pour objectif d'évaluer les envenimations par morsures de serpents à l'hôpital national de Niamey, entre juillet 2005 et septembre 2006. Nous avons inclus 53 victimes de morsures de serpents. La répartition des blessés indiquait plus d'hommes que de femmes blessés (sex ratio = 1,78:1). L'âge moyen était de 29 ± 17 ans. La période de septembre à novembre semblait être une période à risque élevé. Le serpent n'était pas identifié dans 60% des cas. La morsure est survenue au mois de mars dans 43% des cas. Sur le plan clinique, 6% des patients ne présentaient aucun signe d'envenimation et 7% présentaient des troubles hémorragiques ; 88% des patients n'avaient pas reçu d'antivenin. Le taux de létalité était de 15%.",
+        "PubMed ID":[
+            "21809217"
+        ],
+        "Publication Date":1312329600000,
+        "Authors":[
+            {
+                "lastname":"Adehossi",
+                "firstname":"E",
+                "initials":"E",
+                "affiliation":"Service de Médecine Interne, Hôpital National de Niamey, Niamey, Niger. eadehossi@yahoo.fr"
+            },
+            {
+                "lastname":"Sani",
+                "firstname":"R",
+                "initials":"R",
+                "affiliation":null
+            },
+            {
+                "lastname":"Boukari-Bawa",
+                "firstname":"M",
+                "initials":"M",
+                "affiliation":null
+            },
+            {
+                "lastname":"Niaouro",
+                "firstname":"S",
+                "initials":"S",
+                "affiliation":null
+            },
+            {
+                "lastname":"Gbaguidi",
+                "firstname":"F",
+                "initials":"F",
+                "affiliation":null
+            },
+            {
+                "lastname":"Abdou",
+                "firstname":"I",
+                "initials":"I",
+                "affiliation":null
+            },
+            {
+                "lastname":"Parola",
+                "firstname":"P",
+                "initials":"P",
+                "affiliation":null
+            }
+        ]
+    },
+    {
+        "Title":"[Morsures de chien en Suisse].",
+        "Abstract":"Aucun résumé",
+        "PubMed ID":[
+            "21294309"
+        ],
+        "Publication Date":1297123200000,
+        "Authors":[
+            {
+                "lastname":"Bocion",
+                "firstname":"Philippe",
+                "initials":"P",
+                "affiliation":"ph-bocion@sunrise.ch"
+            }
+        ]
+    },
+    {
+        "Title":"[Morsures de serpents exotiques en Suisse].",
+        "Abstract":"Les morsures de serpents exotiques ne sont pas rares en Suisse. Le traitement peut être difficile pour le personnel médical, d'autant plus qu'une prise en charge rapide et ciblée est essentielle pour améliorer le pronostic du patient. Le cas d'un jeune herpétologiste mordu par un serpent venimeux exotique est utilisé pour passer en revue les mesures à prendre avant l'arrivée aux urgences et pour souligner les points clés de la prise en charge. Des ressources pour l'obtention de conseils d'experts et d'antivenins sont également rapportées.",
+        "PubMed ID":[
+            "20545262"
+        ],
+        "Publication Date":1276646400000,
+        "Authors":[
+            {
+                "lastname":"Stadelmann",
+                "firstname":"M",
+                "initials":"M",
+                "affiliation":"Département de chirurgie cardiovasculaire, Hôpital de l'Ile, Université de Berne, 3010 Bern. mathieu_stadelmann@yahoo.fr"
+            },
+            {
+                "lastname":"Ionescu",
+                "firstname":"M",
+                "initials":"M",
+                "affiliation":null
+            },
+            {
+                "lastname":"Chilcott",
+                "firstname":"M",
+                "initials":"M",
+                "affiliation":null
+            },
+            {
+                "lastname":"Berney",
+                "firstname":"J-L",
+                "initials":"JL",
+                "affiliation":null
+            },
+            {
+                "lastname":"Gétaz",
+                "firstname":"L",
+                "initials":"L",
+                "affiliation":null
+            }
+        ]
+    },
+    {
+        "Title":"Morsures de serpents dans les zones soudaniennes et sahéliennes du Mali : épidémiologie, symptômes et traitement.",
+        "Abstract":"L'objectif de cette étude était de documenter l'épidémiologie, les symptômes et le traitement des envenimations par serpents au Mali entre 2005 et 2006. Les données ont été collectées à l'aide de deux méthodes, à savoir des enquêtes auprès des ménages et des enquêtes rétrospectives. Les enquêtes auprès des ménages menées dans un village de 597 personnes ont montré que l'incidence annuelle moyenne était de 164 morsures de serpent pour 100 000 habitants. Les enquêtes rétrospectives ont été menées dans 35 établissements de santé (5 hôpitaux régionaux et 30 centres de santé de district) situés dans 5 régions du pays. Les périodes d'étude variaient de 2 à 11 ans selon la localité. L'incidence annuelle moyenne des morsures de serpent, y compris les morsures sèches sans envenimation, était de 27 pour 100 000 habitants (extrêmes, 15-59). La mortalité hospitalière était de 4,7% (67\/1433) (extrêmes, 2,2-6,7%). Français La population à risque était constituée essentiellement d'hommes actifs qui représentaient 68,4% (980\/1433). Les patients âgés de 15 à 30 ans représentant 41,2% (590\/1433) de l'échantillon étaient les plus à risque de morsure de serpent (chi2=9,96 ; p=6,10-3). La fréquence des morsures de serpent est passée de 9,9% (142\/1433) à Mopti au Nord à 39,9% (572\/1433) à Sikasso au Sud (chi2=11,93 ; p=0,017). Les morsures de serpent survenaient le plus souvent pendant la saison des pluies (56,6%) mais seulement 0,68% des victimes étaient référées au centre de santé. Les syndromes hémorragiques et inflammatoires étaient les principales complications de l'envenimation. Le traitement était toujours symptomatique. Les besoins en sérum antivenimeux variaient de 63 à 200 ampoules par an. Nos résultats montrent que la fréquence des morsures de serpent reste largement sous-estimée sur la base des données hospitalières.",
+        "PubMed ID":[
+            "20337115"
+        ],
+        "Publication Date":1269648000000,
+        "Authors":[
+            {
+                "lastname":"Dabo",
+                "firstname":"A",
+                "initials":"A",
+                "affiliation":"Département d'Epidémiologie des Affections Parasitaires, Faculté de Médecine, de Pharmacie et d'Odontostomatologie, Bamako, Mali. adabo@mrtcbko.org"
+            },
+            {
+                "lastname":"Kouriba",
+                "firstname":"B",
+                "initials":"B",
+                "affiliation":null
+            },
+            {
+                "lastname":"Traoré",
+                "firstname":"A",
+                "initials":"A",
+                "affiliation":null
+            },
+            {
+                "lastname":"Diarra",
+                "firstname":"Y",
+                "initials":"Y",
+                "affiliation":null
+            },
+            {
+                "lastname":"Doumbo",
+                "firstname":"O",
+                "initials":"O",
+                "affiliation":null
+            }
+        ]
+    },
+    {
+        "Title":"[Morsures d'animaux et infections].",
+        "Abstract":"Les morsures d'animaux, principalement de chiens, nécessitent souvent une consultation aux urgences, mais sont souvent considérées à tort comme anodines. En effet, les morsures peuvent entraîner un handicap et s'infecter, le plus souvent par la flore buccale de l'animal mordant (Pasteurella, Capnocytophaga, Eikennella, streptocoques, staphylocoques et bactéries anaérobies). Les morsures peuvent également provoquer d'autres infections comme le tétanos, la rage, la maladie des griffes du chat, la tularémie, la leptospirose, la fièvre par morsure de rat et la peste. La prise en charge des morsures comprend des aspects prophylactiques (prophylaxie antimicrobienne, vaccination contre le tétanos et la rage) et thérapeutiques (traitement local et antibiothérapie).",
+        "PubMed ID":[
+            "19009844"
+        ],
+        "Publication Date":1226966400000,
+        "Authors":[
+            {
+                "lastname":"Boillat",
+                "firstname":"N",
+                "initials":"N",
+                "affiliation":"Centre de maladies infectieuses et epidémiologie, Institut central des hôpitaux valaisans 86, avenue Grand-Champsec, 1950, Sion."
+            },
+            {
+                "lastname":"Frochaux",
+                "firstname":"V",
+                "initials":"V",
+                "affiliation":null
+            }
+        ]
+    },
+    {
+        "Title":"Antivenins paraspécifiques et morsures exotiques de serpents : à propos de deux rapports de cas.",
+        "Abstract":"Les envenimations par morsure de serpents exotiques sont rares en France et posent un sérieux problème thérapeutique : seul un antivenin adapté est efficace et l'obtention d'un tel traitement est une réelle difficulté. Les auteurs rapportent deux cas cliniques d'envenimation avec défibrination après morsure de crotales d'Amérique du Sud. Les deux patients ont été traités par un antivenin non spécifique avec des résultats divergents. L'utilisation des effets paraspécifiques des antivenins peut permettre un traitement efficace en l'absence d'antivenin spécifique, mais nécessite d'être mieux connue.",
+        "PubMed ID":[
+            "18430541"
+        ],
+        "Publication Date":1208995200000,
+        "Authors":[
+            {
+                "lastname":"de Rudnicki",
+                "firstname":"S",
+                "initials":"S",
+                "affiliation":"Service d'anesthésie-réanimation, hôpital d'instruction des armées Percy, 101, avenue Henri-Barbusse, 92141 Clamart cedex, France. s.de-rudnicki@netcourrier.com"
+            },
+            {
+                "lastname":"Debien",
+                "firstname":"B",
+                "initials":"B",
+                "affiliation":null
+            },
+            {
+                "lastname":"Leclerc",
+                "firstname":"T",
+                "initials":"T",
+                "affiliation":null
+            },
+            {
+                "lastname":"Clapson",
+                "firstname":"P",
+                "initials":"P",
+                "affiliation":null
+            },
+            {
+                "lastname":"Merens",
+                "firstname":"A",
+                "initials":"A",
+                "affiliation":null
+            },
+            {
+                "lastname":"Perez",
+                "firstname":"J-P",
+                "initials":"JP",
+                "affiliation":null
+            },
+            {
+                "lastname":"Lenoir",
+                "firstname":"B",
+                "initials":"B",
+                "affiliation":null
+            }
+        ]
+    },
+    {
+        "Title":"[Espoir dans le traitement des morsures de serpents et autres animaux venimeux].",
+        "Abstract":"Aucun résumé",
+        "PubMed ID":[
+            "18277769"
+        ],
+        "Publication Date":1203379200000,
+        "Authors":[
+            {
+                "lastname":"Petite",
+                "firstname":"Jacques",
+                "initials":"J",
+                "affiliation":null
+            }
+        ]
+    },
+    {
+        "Title":"Les morsures, sources de conflits dans les structures d'accueil pour enfants.",
+        "Abstract":"Aucun résumé",
+        "PubMed ID":[
+            "17992890"
+        ],
+        "Publication Date":1194912000000,
+        "Authors":[
+            {
+                "lastname":"de Laharpe",
+                "firstname":"Hélène",
+                "initials":"H",
+                "affiliation":null
+            }
+        ]
+    },
+    {
+        "Title":"[Traitement des morsures de serpents au Congo Red].",
+        "Abstract":"Aucun résumé",
+        "PubMed ID":[
+            "17784671"
+        ],
+        "Publication Date":1189036800000,
+        "Authors":[
+            {
+                "lastname":"Milleliri",
+                "firstname":"J M",
+                "initials":"JM",
+                "affiliation":"l'Ecole du Service de santé des armées, Bron, France. j-m.milleliri@wanadoo.fr"
+            },
+            {
+                "lastname":"Carlotti",
+                "firstname":"M P",
+                "initials":"MP",
+                "affiliation":null
+            }
+        ]
+    },
+    {
+        "Title":"Les morsures de chien chez l'enfant, de l'épidémiologie à la prise en charge.",
+        "Abstract":"Aucun résumé",
+        "PubMed ID":[
+            "16690290"
+        ],
+        "Publication Date":1147478400000,
+        "Authors":[
+            {
+                "lastname":"Chevallier",
+                "firstname":"B",
+                "initials":"B",
+                "affiliation":"Service de pédiatrie et des urgences pédiatriques, hôpital Ambroise-Paré, 92100 Boulogne-Billancourt, France. bertrand.chevallier@apr.aphp.fr"
+            },
+            {
+                "lastname":"Armengaud",
+                "firstname":"J B",
+                "initials":"JB",
+                "affiliation":null
+            },
+            {
+                "lastname":"Stheneur",
+                "firstname":"C",
+                "initials":"C",
+                "affiliation":null
+            },
+            {
+                "lastname":"Sznajder",
+                "firstname":"M",
+                "initials":"M",
+                "affiliation":null
+            }
+        ]
+    },
+    {
+        "Title":"[Relations entre enfants et chiens, prévention des morsures].",
+        "Abstract":"Aucun résumé",
+        "PubMed ID":[
+            "16690275"
+        ],
+        "Publication Date":1147478400000,
+        "Authors":[
+            {
+                "lastname":"Kern",
+                "firstname":"L",
+                "initials":"L",
+                "affiliation":"laurent.kern@libertysurf.fr"
+            }
+        ]
+    },
+    {
+        "Title":"Epidémiologie des morsures de serpents dans les plantations de canne à sucre du Kwilu Ngongo en République Démocratique du Congo.",
+        "Abstract":"Une étude épidémiologique a été menée dans une plantation de canne à sucre de la Compagnie Sucrière du Kwilu Ngongo en République Démocratique du Congo (RDC) pour évaluer l'incidence des morsures de serpents, rapporter les indicateurs épidémiologiques et cliniques et les pratiques thérapeutiques. Les plantations s'étendent sur 41 km couvrant environ 10 000 hectares en savane arborée. La méthode a associé i) une enquête rétrospective réalisée à partir des registres de deux centres de santé situés au cœur des plantations, puis dans les archives de l'hôpital central de la compagnie sucrière et dans un centre de santé public, et ii) une enquête auprès des ménages à l'aide d'un questionnaire administré à 579 concessions et ménages pendant six ans. L'incidence calculée est estimée à 80 morsures par an pour 100 000 habitants. Plus de la moitié des morsures concernaient des hommes travaillant dans les plantations industrielles de canne à sucre ou dans les champs et se produisaient pendant la saison des pluies. Les incendies dans les plantations de canne à sucre pendant la récolte ont eu une influence à la fois sur le comportement des serpents et sur les activités des hommes. En raison de l'absence d'antivenin, le traitement des morsures de serpents est resté symptomatique. La durée moyenne des hospitalisations a été de 4 jours, le critère de surveillance étant basé sur la disparition de l'œdème localisé au pied s'étendant parfois à la jambe.",
+        "PubMed ID":[
+            "16402585"
+        ],
+        "Publication Date":1137110400000,
+        "Authors":[
+            {
+                "lastname":"Odio",
+                "firstname":"W",
+                "initials":"W",
+                "affiliation":"Centre antivenimeux, Université de Kinshasa, République Démocratique du Congo."
+            },
+            {
+                "lastname":"Musama",
+                "firstname":"E",
+                "initials":"E",
+                "affiliation":null
+            },
+            {
+                "lastname":"Engo Biongo",
+                "firstname":"G",
+                "initials":"G",
+                "affiliation":null
+            },
+            {
+                "lastname":"Malukisa",
+                "firstname":"J",
+                "initials":"J",
+                "affiliation":null
+            },
+            {
+                "lastname":"Biezakala",
+                "firstname":"E",
+                "initials":"E",
+                "affiliation":null
+            }
+        ]
+    },
+    {
+        "Title":"Epidémiologie et prise en charge des morsures de serpents dans la province du Bas-Congo (République Démocratique du Congo)",
+        "Abstract":"Une étude sur l'épidémiologie et la prise en charge des morsures de serpents a été réalisée dans la province du Bas-Congo en République Démocratique du Congo. Cette province, située à l'Ouest de la RDC est divisée en 31 zones de santé et plusieurs autres structures de santé secondaires. L'étude s'est étendue sur une période allant de 2000 à 2004 et a été menée simultanément dans les ménages et les centres de santé ou complexe hospitalier des régions de Kavwaya, Sonabata et Kasangulu. Les recherches ont porté sur les circonstances des morsures de serpents, les symptômes observés et le traitement choisi par les patients. Les résultats suivants ont été obtenus :--Dans les centres de santé et complexes hospitaliers, sur un total de 293 cas enregistrés, la mortalité s'élève à 10,2%.--Dans les ménages enquêtés, 82 cas de morsures de serpents ont été enregistrés avec 5% de décès et 27% qui ont choisi la médecine traditionnelle.--La répartition des cas selon l'âge a montré que l'incidence des morsures était faible dans l'enfance (15%) ; le sex ratio était inversé entre les structures de santé et l'enquête ménage.",
+        "PubMed ID":[
+            "16402583"
+        ],
+        "Publication Date":1137110400000,
+        "Authors":[
+            {
+                "lastname":"Bokata",
+                "firstname":"S",
+                "initials":"S",
+                "affiliation":"Centre antivenimeux, Université de Kinshasa, République Démocratique du Congo."
+            }
+        ]
+    },
+    {
+        "Title":"Aspects épidémiologiques des morsures de serpents au Bénin.",
+        "Abstract":"Français Parmi les urgences sanitaires environnementales rurales, les morsures de serpents étaient courantes dans les communautés villageoises et les activités agricoles. Leur fréquence et leurs complications mortelles dépendent du caractère venimeux de l'espèce et de l'absence de traitement précoce. Le but de ce travail était de décrire certains aspects épidémiologiques des morsures de serpents et de suggérer des stratégies préventives pour éviter les complications. Nous avons donc mené une enquête rétrospective en utilisant les données des centres de santé du bureau des statistiques du ministère de la Santé de 2000 à 2002. Au cours des trois années, 10 954 cas ont été notifiés avec une moyenne annuelle totale de 3 651 morsures dont 158 ​​pour la moyenne des enfants. La répartition des blessés indiquait plus d'hommes que de femmes blessés (sex-ratio = 2:1), avec une tendance annuelle à la hausse chez les adultes. Le taux de mortalité était de 0,94 % en 2001 et est passé à 1,57 % en 2002. Le taux de mortalité était plus élevé chez les enfants (1,67 %) que chez les adultes (1,08 %). Selon l'environnement écologique, les provinces du nord étaient plus exposées (71,6 %) que les régions du centre et du sud. Mais dans la région centrale, le taux de mortalité était plus élevé (1,05 %) que dans les autres (0,80 %). Sur la base de ces résultats, les auteurs ont suggéré la formation des soignants des centres de santé ruraux sur le traitement précoce, la formation communautaire sur les soins de santé primaires en cas de morsures de serpent et la mise en place d'un registre des morsures de serpent",
+        "PubMed ID":[
+            "16402578"
+        ],
+        "Publication Date":1137110400000,
+        "Authors":[
+            {
+                "lastname":"Fourn",
+                "firstname":"L",
+                "initials":"L",
+                "affiliation":"Faculté des sciences de la santé, Cotonou, Bénin."
+            },
+            {
+                "lastname":"Adè",
+                "firstname":"G",
+                "initials":"G",
+                "affiliation":null
+            },
+            {
+                "lastname":"Fayomi",
+                "firstname":"E B",
+                "initials":"EB",
+                "affiliation":null
+            },
+            {
+                "lastname":"Zohoun",
+                "firstname":"Th",
+                "initials":"T",
+                "affiliation":null
+            }
+        ]
+    },
+    {
+        "Title":"[Impact des morsures de serpents en milieu rural : enquête communautaire dans la communauté rurale de développement (RDC) de Frilguiagbe, République de Guinée].",
+        "Abstract":"Français Une étude exhaustive a été menée dans la communauté rurale de développement (RDC) de Frilguiagbe, située à 115 km de Conakry sur l'axe routier Conakry-Kindia. Elle concerne une population de 23 442 habitants répartis en 3 047 ménages. L'enquête a été menée à trois niveaux :--le niveau communautaire ;--les centres de santé ;--les tradipraticiens. Dans l'enquête auprès des ménages réalisée entre 2002 et 2003, 175 cas de morsures de serpents ont été enregistrés. Dans les centres de santé, seulement deux (2) cas ont été enregistrés de 1993 à 2003. Par contre, 80% (=140) des cas enregistrés dans les ménages ont consulté un tradipraticien. Au total, on a enregistré 9 décès (5%). Un tel résultat montre que la collecte d'informations à partir des registres de consultation n'est pas appropriée pour apprécier l'importance des envenimations dans notre pays.",
+        "PubMed ID":[
+            "16402575"
+        ],
+        "Publication Date":1137110400000,
+        "Authors":[
+            {
+                "lastname":"Balde",
+                "firstname":"M C",
+                "initials":"MC",
+                "affiliation":"Institut Pasteur de Guinée, République de Guinée. celloufr@yahoo.fr"
+            },
+            {
+                "lastname":"Camara",
+                "firstname":"A M B",
+                "initials":"AM",
+                "affiliation":null
+            },
+            {
+                "lastname":"Bah",
+                "firstname":"H",
+                "initials":"H",
+                "affiliation":null
+            },
+            {
+                "lastname":"Barry",
+                "firstname":"A O",
+                "initials":"AO",
+                "affiliation":null
+            },
+            {
+                "lastname":"Camara",
+                "firstname":"S K",
+                "initials":"SK",
+                "affiliation":null
+            }
+        ]
+    },
+    {
+        "Title":"[Évaluation de l'incidence des morsures de serpents au Sénégal, Afrique de l'Ouest].",
+        "Abstract":"Des enquêtes ont été menées dans quatre zones de savane du Sénégal. Les zones étudiées avaient des caractéristiques climatiques, économiques et démographiques différentes. Deux types d'enquêtes ont été réalisées : d'une part, une enquête rétrospective réalisée dans les centres de santé et, d'autre part, des enquêtes auprès des ménages dans les zones correspondantes ; tous les ménages ont été interrogés à Niakhar, mais seulement les ménages sélectionnés dans les autres zones selon la méthode d'enquête par grappes de l'OMS pour la couverture vaccinale. Les questions portaient sur les circonstances de la morsure, les symptômes et le traitement. L'enquête rétrospective a rapporté très peu de cas de morsures de serpents sur la période prospectée. De plus, deux zones d'enquêtes étaient des zones d'étude de population observées depuis plus de 20 ans et, certaines informations de la base de données ont pu être vérifiées. Français Dans la première zone, Thiès, zone périurbaine (densité de population supérieure à 150 habitants au km2), occupée essentiellement par des plantations fruitières (manguiers, orangers, citronniers) et des jardins, l'incidence annuelle des morsures de serpents (c'est-à-dire toutes les morsures de serpents y compris celles sans aucun symptôme) atteignait 43 morsures pour 100 000 et la mortalité était de 1,8 décès pour 100 000. Dans la zone d'étude de Niakhar, située dans la zone arachidière du Sénégal qui est également très peuplée (130 habitants au km2), l'incidence des morsures de serpents était de 23 morsures pour 100 000 et la mortalité était proche de 1,8 décès pour 100 000 par an. La zone de Nioro du Rip est une zone agricole mixte (agriculture vivrière et de rente) et moins peuplée (100 habitants au km2). Français L'incidence annuelle était d'environ 304 pour 100 000 et la mortalité de 3,6 pour 100 000. Enfin, la quatrième région, Bandafassi à l'extrême Sud-Est du Sénégal est une zone montagneuse exclusivement occupée par l'agriculture de brousse et vivrière, et peu peuplée (20 habitants au km2). L'incidence était de 915 pour 100 000 et la mortalité de 11 décès pour 100 000. La population à risque était de sexe masculin de 15 à 45 ans. Les travaux pastoraux (agriculture et élevage) étaient à l'origine de la majorité des accidents. Le recours aux tradipraticiens était systématique, ce qui expliquait que les données des centres de santé n'étaient pas suffisamment pertinentes pour évaluer l'importance de l'envenimation.",
+        "PubMed ID":[
+            "16402574"
+        ],
+        "Publication Date":1137110400000,
+        "Authors":[
+            {
+                "lastname":"Chippaux",
+                "firstname":"J P",
+                "initials":"JP",
+                "affiliation":"Institut de recherche pour le développement, Dakar, Sénégal."
+            },
+            {
+                "lastname":"Vieillefosse",
+                "firstname":"S",
+                "initials":"S",
+                "affiliation":null
+            },
+            {
+                "lastname":"Sall",
+                "firstname":"O",
+                "initials":"O",
+                "affiliation":null
+            },
+            {
+                "lastname":"Mafouta",
+                "firstname":"R",
+                "initials":"R",
+                "affiliation":null
+            },
+            {
+                "lastname":"Diallo",
+                "firstname":"A",
+                "initials":"A",
+                "affiliation":null
+            }
+        ]
+    },
+    {
+        "Title":"[Prise en charge hospitalière des morsures de serpents en Afrique].",
+        "Abstract":"Les morsures de serpents constituent un problème de santé publique en Afrique, avec environ 600 000 envenimations et 20 000 décès estimés par an. La prise en charge hospitalière des cas guidée par des protocoles écrits qui tiennent compte des données épidémiologiques et physiopathologiques, ainsi que de la situation hospitalière, débute aux urgences et repose sur le diagnostic d'envenimation, soit par des vipères, soit par des élapidés. Si ce diagnostic est confirmé, un traitement intensif doit être mis en place. Il comprend un volet non spécifique, notamment le traitement de l'hypovolémie, de la coagulopathie de consommation, de la nécrose tissulaire et de l'insuffisance respiratoire et un volet spécifique, l'immunothérapie comme seul traitement étiologique. Cette dernière consiste à administrer une injection intraveineuse de fragments d'immunoglobulines polyvalentes purifiées contre le venin. Cette prise en charge s'inscrit dans une politique générale de santé publique qui prend en compte l'organisation et le financement du traitement.",
+        "PubMed ID":[
+            "16402573"
+        ],
+        "Publication Date":1137110400000,
+        "Authors":[
+            {
+                "lastname":"Bellefleur",
+                "firstname":"J P",
+                "initials":"JP",
+                "affiliation":"Département d'anesthésie-réanimation-urgence, Hôpital principal de Dakar, Sénégal. bellefleur.jp@sentoo.sn"
+            },
+            {
+                "lastname":"Le Dantec",
+                "firstname":"P",
+                "initials":"P",
+                "affiliation":null
+            }
+        ]
+    },
+    {
+        "Title":"Méthodologie des enquêtes auprès des ménages : cas de deux enquêtes réalisées (exemple de Bandafassi, Sénégal)",
+        "Abstract":"FrançaisLa zone d'enquête de Bandafassi, au Sénégal oriental, a fait l'objet de deux études permettant chacune de mesurer le risque de morsure et de décès consécutifs à une morsure de serpent en milieu rural. Deux méthodes différentes ont été utilisées pour mener ces enquêtes. Bien que toutes deux basées sur la visite des ménages, l'échantillon de la première étude a été conçu pour être représentatif de la population (la zone d'étude de Bandafassi fait l'objet d'un suivi démographique régulier depuis 1970) tandis que la seconde étude a été réalisée en interrogeant les chefs de concession (groupes de ménages). L'analyse de ces enquêtes doit donc tenir compte des écarts d'échantillonnage. Malgré des méthodologies différentes, les similitudes dans les résultats obtenus valident les deux méthodes et permettent d'expliquer les faibles variations observées et de mesurer les biais relatifs à ce type d'enquêtes.",
+        "PubMed ID":[
+            "16402572"
+        ],
+        "Publication Date":1137110400000,
+        "Authors":[
+            {
+                "lastname":"Guyavarch",
+                "firstname":"E",
+                "initials":"E",
+                "affiliation":"Unité population et développement, INED, Paris, France. guyavarc@ined.fr"
+            },
+            {
+                "lastname":"Chippaux",
+                "firstname":"J P",
+                "initials":"JP",
+                "affiliation":null
+            }
+        ]
+    },
+    {
+        "Title":"[Maladies infantiles : traces de morsures versus autres types de lésions].",
+        "Abstract":"Le nombre de cas de maltraitance d'enfants signalés augmente chaque année. Cela peut indiquer que le seuil de signalement des cas de maltraitance d'enfants a baissé ou que l'incidence de ce type de violence physique a augmenté dans notre société. Les médecins, les dentistes, le personnel des services d'urgence et les éducateurs sont, en raison de leur relation professionnelle avec les enfants, dans une position privilégiée pour détecter et signaler les signes et symptômes de maltraitance d'enfants et devraient jouer un rôle crucial dans la protection des victimes potentielles de maltraitance.",
+        "PubMed ID":[
+            "16370437"
+        ],
+        "Publication Date":1135382400000,
+        "Authors":[
+            {
+                "lastname":"De Valck",
+                "firstname":"Eddy",
+                "initials":"E",
+                "affiliation":"Odontologue légiste DVI Belgique."
+            }
+        ]
+    },
+    {
+        "Title":"[Analyse des traces de morsures].",
+        "Abstract":"Des photographies précises, complétées par des empreintes, sont utilisées pour rechercher et comparer les traces de morsures. Le dentiste légiste dispose de différents matériaux pour les empreintes. Ensuite, les informations acquises sur la trace de morsure sont comparées à la dentition d'un suspect au moyen de photographies, d'examens intra- et extra-buccaux et d'empreintes. La superposition, qui peut être créée à l'aide de diverses méthodes, permet de comparer la trace de morsure et la dentition du suspect. Parmi les méthodes les plus couramment utilisées figurent le traçage manuel de modèles d'étude, les morsures en cire ou les photocopies, ou encore la méthode de la cire radio-opaque. Grâce à la technologie moderne et à l'utilisation d'ordinateurs, les analyses de traces de morsures sont devenues progressivement plus précises. Des recherches actuelles menées à la Katholieke Universiteit Leuven montreront si le programme informatique ForensicIQ est en mesure d'offrir une comparaison encore plus précise entre une trace de morsure donnée et la dentition d'un suspect. L'analyse des traces de morsures ne doit en aucun cas conduire à un verdict de culpabilité, mais elle offrira la possibilité d'exclure un suspect d'un crime lorsque les données ne concordent pas.",
+        "PubMed ID":[
+            "16370436"
+        ],
+        "Publication Date":1135382400000,
+        "Authors":[
+            {
+                "lastname":"Spiessens",
+                "firstname":"Marc",
+                "initials":"M",
+                "affiliation":"Maitrise en Odontologie légale, Katholieke Universiteit Leuven, Faculté de Médecine, Ecole de Medecine Dentaire, Stomatologie et Chirurgie maxillo-faciale Kapucijnenvoer 7, B-3000 Louvain."
+            },
+            {
+                "lastname":"Van der Velden",
+                "firstname":"Bram",
+                "initials":"B",
+                "affiliation":null
+            },
+            {
+                "lastname":"Willems",
+                "firstname":"Guy",
+                "initials":"G",
+                "affiliation":null
+            }
+        ]
+    },
+    {
+        "Title":"[Morsure et piqûre. Prévention de la rage].",
+        "Abstract":"Aucun résumé",
+        "PubMed ID":[
+            "16334213"
+        ],
+        "Publication Date":1134432000000,
+        "Authors":[
+            {
+                "lastname":"Noël",
+                "firstname":"Violaine",
+                "initials":"V",
+                "affiliation":"Service de médecine interne et maladies infectieuses, hôpital Robert Debré, 51092 Reims Cedex."
+            },
+            {
+                "lastname":"Lortholary",
+                "firstname":"Olivier",
+                "initials":"O",
+                "affiliation":null
+            }
+        ]
+    },
+    {
+        "Title":"Incidence des morsures de serpents dans une zone rurale du sud-est du Sénégal.",
+        "Abstract":"Afin de réaliser une étude exploratoire sur le risque de décès par morsure de serpent dans une zone rurale du Sud-Est du Sénégal, nous avons réalisé une enquête pour estimer l’incidence des morsures de serpent dans la même population. L’étude réalisée sur un échantillon de près de 600 sujets a montré une incidence annuelle de 677 morsures pour 100.000 habitants, soit l’un des taux les plus importants jamais rapportés dans le monde jusqu’à présent. Sur la base de ces résultats et des données recueillies précédemment sur les décès par morsure de serpent dans cette même population, nous fournissons une estimation du taux de létalité par morsure de serpent de 2,1% dans cette zone du Sénégal.",
+        "PubMed ID":[
+            "16267960"
+        ],
+        "Publication Date":1131148800000,
+        "Authors":[
+            {
+                "lastname":"Guyavarch",
+                "firstname":"E",
+                "initials":"E",
+                "affiliation":"Unité population et développement, INED, 133 Boulevard Davout, 75980 Paris 20, France. guyavarc@ined.sn"
+            },
+            {
+                "lastname":"Trape",
+                "firstname":"J F",
+                "initials":"JF",
+                "affiliation":null
+            }
+        ]
+    },
+    {
+        "Title":"[Les morsures d'animaux et la rage].",
+        "Abstract":"Aucun résumé",
+        "PubMed ID":[
+            "15816426"
+        ],
+        "Publication Date":1113004800000,
+        "Authors":[
+            {
+                "lastname":"Deshaies",
+                "firstname":"Doris",
+                "initials":"D",
+                "affiliation":"Direction de santé publique de Montréal."
+            }
+        ]
+    },
+    {
+        "Title":"[Les morsures d’araignées : l’aranéidisme d’importance médicale].",
+        "Abstract":"RISQUES LIMITES : Bien que la plupart des espèces d'araignées soient venimeuses, seule une dizaine d'entre elles sont capables d'induire des envenimations humaines. D'un point de vue systématique, il est possible de distinguer les araignées aranéomorphes - ou \"vraies\" araignées - des araignées mygalomorphes. On trouve des espèces dangereuses pour l'homme dans les deux groupes. Chez les \"vraies\" araignées, deux types d'envenimations sont fréquents, omniprésents et potentiellement graves : le latrodectisme (symptôme neurotoxique) dû aux veuves de l'espèce Latrodectus, et le loxoscelisme (symptôme viscéro-cutané). Chez les araignées mygalomorphes, les espèces australiennes responsables d'atraxisme (symptôme neurotoxique) sont considérées comme les plus dangereuses. La plupart des autres araignées mygalomorphes, lorsqu'elles mordent, ne provoquent que des troubles locorégionaux bénins. Une arme défensive supplémentaire existe chez certaines espèces sud-américaines : les poils urticants qui peuvent induire des lésions oculaires sévères.",
+        "PubMed ID":[
+            "15685099"
+        ],
+        "Publication Date":1107388800000,
+        "Authors":[
+            {
+                "lastname":"Pommier",
+                "firstname":"Philip",
+                "initials":"P",
+                "affiliation":"Centre antipoison, hôpital Salvator, Marseille."
+            },
+            {
+                "lastname":"Rollard",
+                "firstname":"Christine",
+                "initials":"C",
+                "affiliation":null
+            },
+            {
+                "lastname":"De Haro",
+                "firstname":"Luc",
+                "initials":"L",
+                "affiliation":null
+            }
+        ]
+    },
+    {
+        "Title":"[Analyse des envenimations par morsures de serpents au Gabon].",
+        "Abstract":"En zone tropicale, les morsures de serpents sont considérées comme graves. Les serpents exotiques se caractérisent par la toxicité de leur venin et son abondance. La mort est rapide dans certains cas et les séquelles sont graves dans d'autres. Dans le monde, on compte plus de 5 millions de victimes par an, avec 50 000 décès enregistrés et 400 000 amputations. La fréquence et la gravité des morsures de serpents au Gabon restent inconnues. On estime qu'il y a en moyenne une morsure de serpent tous les 4 jours, soit environ 91 morsures de serpents par an. A travers une étude réalisée à l'hôpital de Libreville, nous avons évalué la fréquence, la gravité et la létalité de cette pathologie circonstancielle. Une étude rétrospective menée sur 157 patients admis pour morsure de serpent à l'unité de soins intensifs de l'hôpital de Libreville a été réalisée entre 1998 et 2001. 1,32% de toutes les admissions étaient pour morsures de serpent. Français Des signes d'empoisonnement par venin ont été observés chez 27 patients (17 %), contre 130 cas sans envenimation. La majorité des cas concernaient des adultes (78 %) et les enfants atteints (22 %) étaient âgés principalement de 6 à 14 ans. La saison des morsures de serpents coïncidait généralement avec la saison des pluies. Au cours de cette période, 19 cas ont été enregistrés. Les morsures de serpents se sont produites pendant la journée (93 %), dans les champs dans 20 cas (75 %) ou dans la cour des habitations (25 %). Les victimes vivaient en ville dans 25 cas (93 %). Un antivenin a été utilisé dans tous les cas d'envenimation, et le résultat a été favorable dans 23 cas (18 %) mais défavorable dans 4 cas (15 %).",
+        "PubMed ID":[
+            "12404868"
+        ],
+        "Publication Date":1036022400000,
+        "Authors":[
+            {
+                "lastname":"Tchoua",
+                "firstname":"R",
+                "initials":"R",
+                "affiliation":"Service de réanimation et urgences, Centre hospitalier de Libreville, B. P. 2 228, Libreville, Gabon. romtchoua@yahoo.fr"
+            },
+            {
+                "lastname":"Raouf",
+                "firstname":"A O",
+                "initials":"AO",
+                "affiliation":null
+            },
+            {
+                "lastname":"Ogandaga",
+                "firstname":"A",
+                "initials":"A",
+                "affiliation":null
+            },
+            {
+                "lastname":"Mouloungui",
+                "firstname":"C",
+                "initials":"C",
+                "affiliation":null
+            },
+            {
+                "lastname":"Loussou",
+                "firstname":"J B Mbanga",
+                "initials":"JB",
+                "affiliation":null
+            },
+            {
+                "lastname":"Kombila",
+                "firstname":"M",
+                "initials":"M",
+                "affiliation":null
+            },
+            {
+                "lastname":"Nsafu",
+                "firstname":"D Ngaka",
+                "initials":"DN",
+                "affiliation":null
+            }
+        ]
+    },
+    {
+        "Title":"Morsures de serpents et disponibilité des antivenins dans la communauté urbaine de Niamey, Niger.",
+        "Abstract":"Afin d'apprécier certains aspects de l'épidémiologie des morsures de serpents et de la disponibilité des antivenins à Niamey (capitale du Niger), nous avons réalisé une série d'études rétrospectives et prospectives. L'étude rétrospective a porté sur 175 patients mordus par serpents hospitalisés du 1er janvier 1997 au 31 décembre 1999 dans les services de médecine interne et de chirurgie des deux hôpitaux nationaux de Niamey. L'âge moyen des patients était de 29 ans, avec comme limites 3 ans et 80 ans. Le nombre moyen de morsures de serpents était de 58 cas par an avec une incidence annuelle d'environ 10 cas pour 100 000 habitants. Les hommes étaient majoritairement concernés avec un sex-ratio de 2,4 (124 hommes contre 51 femmes). Les morsures de serpents touchaient majoritairement les adolescents (29,1%). 84,6% des morsures survenaient chez des personnes âgées de 15 à 60 ans. L'incidence était plus élevée en période agricole : 65% des cas survenaient entre juin et octobre. La létalité a atteint 6,9 %. Cependant, 25,7 % des patients ont quitté l'hôpital sans autorisation du personnel avant la fin du traitement. Les complications ont représenté 4,6 % des cas et consistaient en nécrose, gangrène et coagulopathie. Le protocole de traitement était incohérent, de sorte qu'un algorithme thérapeutique et une formation sont nécessaires. L'enquête prospective a porté sur 41 pharmacies ou intermédiaires de médicaments et stocks de médicaments hospitaliers, prospectés du 1er janvier au 31 mai 2000. L'antivenin était disponible dans 1 hôpital et 1 pharmacie et les stocks pouvaient être considérés comme suffisants pour 1 an. Cependant, il est apparu que la politique d'approvisionnement n'avait pas été clairement définie.",
+        "PubMed ID":[
+            "12404866"
+        ],
+        "Publication Date":1036022400000,
+        "Authors":[
+            {
+                "lastname":"Chippaux",
+                "firstname":"J P",
+                "initials":"JP",
+                "affiliation":"Institut de recherche pour le développement (IRD), B. P. 1386, Dakar, Sénégal."
+            },
+            {
+                "lastname":"Kambewasso",
+                "firstname":"A",
+                "initials":"A",
+                "affiliation":null
+            }
+        ]
+    },
+    {
+        "Title":"Données épidémiologiques sur les cas de morsures de serpents signalés au Bénin de 1994 à 2000.",
+        "Abstract":"Les morsures de serpents constituent un accident du travail fréquent, survenant principalement au cours des activités agricoles au Bénin comme dans la plupart des pays tropicaux. La présente étude s'inscrit dans le cadre d'une analyse épidémiologique périodique des accidents du travail au cours des 15 dernières années. Il s'agit d'une étude rétrospective basée sur les morsures de serpents déclarées par le Ministère de la Santé Publique de 1994 à 2000. Les données recueillies à partir des registres des centres médicaux ont montré qu'avec un total de 30 273 cas déclarés au cours de ces 7 années, les morsures de serpents représentent moins de 1% de l'ensemble des causes d'admission. Bien que la prévalence soit faible, la létalité est très élevée (15%). Les envenimations entraînent plus de décès que le paludisme et les infections respiratoires aiguës réunis. Un tiers des cas surviennent chez les adultes et les adolescents. La létalité chez les nourrissons n'est pas négligeable. Les deux départements du nord du Bénin concentrent 314 envenimations. La létalité ne semble pas diminuer. La prise en charge courante des cas devrait être améliorée par une formation appropriée des agents de santé et l’introduction d’une stratégie thérapeutique à tous les niveaux du système médical.",
+        "PubMed ID":[
+            "12404865"
+        ],
+        "Publication Date":1036022400000,
+        "Authors":[
+            {
+                "lastname":"Fayomi",
+                "firstname":"B",
+                "initials":"B",
+                "affiliation":"Centre national hospitalier universitaire, B. P. 386, Cotonou, Bénin. bfayomi@intnet.bj"
+            },
+            {
+                "lastname":"Massougbodji",
+                "firstname":"A",
+                "initials":"A",
+                "affiliation":null
+            },
+            {
+                "lastname":"Chobli",
+                "firstname":"M",
+                "initials":"M",
+                "affiliation":null
+            }
+        ]
+    },
+    {
+        "Title":"Epidémiologie des morsures de serpents au Bénin.",
+        "Abstract":"Français L'incidence et la gravité des envenimations dans la zone de savane du Centre et du Nord du Bénin ont été évaluées entre 1985 et 1997 selon 3 méthodes. i) Des enquêtes rétrospectives ont été menées dans 9 hôpitaux, dont une infirmerie de canne à sucre, sur une période de 3 à 10 ans selon la localité. L'incidence annuelle moyenne était d'environ 200 envenimations pour 100 000 habitants (extrêmes 20-450) et la létalité était de 3,1% (extrêmes 0-9,7%). Dans la plantation, l'incidence annuelle était de 1 300 piqûres pour 100 000 ouvriers avec une létalité inférieure à 1,5%. ii) Des enquêtes auprès des ménages ont été menées dans 13 villages habités par 2 500 personnes. L'incidence annuelle moyenne était de 430 piqûres, y compris les piqûres sèches, c'est-à-dire. Français sans envenimation, pour 100 000 habitants (extrêmes 215-650). La létalité était de 3,3 %, iii) Enfin, une enquête prospective a été réalisée sur 3 ans dans 7 villages impliquant 1 300 habitants. L'incidence annuelle moyenne était de 440 morsures, y compris sèches, pour 100 000 habitants et la létalité était de 5,9 %. La majorité des morsures survenaient pendant la saison des pluies. Durant cette période, les envenimations représentaient jusqu'à 20 % des patients hospitalisés. Cependant, les enquêtes villageoises ont montré que 80 % des patients consultaient d'abord les tradipraticiens, réduisant la proportion de patients consultant dans les hôpitaux à moins d'un tiers des victimes de morsures de serpent. La population à risque était constituée essentiellement d'hommes actifs. Le sex-ratio était de 2,3 hommes pour 1 femme et plus de 60 % des patients mordus par serpent étaient âgés de 21 à 50 ans. L'évaluation de la fréquence des syndromes cliniques était la suivante : œdème (66%), hémorragie (12%) et nécrose (5%). Les troubles neurologiques semblaient rares.",
+        "PubMed ID":[
+            "12404863"
+        ],
+        "Publication Date":1036022400000,
+        "Authors":[
+            {
+                "lastname":"Chippaux",
+                "firstname":"J P",
+                "initials":"JP",
+                "affiliation":"Institut de recherche pour le développement (IRD), B. P. 1386, Dakar, Sénégal. chippaux@ird.sn"
+            }
+        ]
+    },
+    {
+        "Title":"Epidémiologie des morsures de serpents en République de Côte d'Ivoire.",
+        "Abstract":"Une enquête nationale a été réalisée en Côte d'Ivoire en 1979 afin d'évaluer l'incidence, la morbidité et la mortalité des morsures de serpents. Cette enquête inédite n'a pas été renouvelée à notre connaissance. Bien qu'une vingtaine d'années se soient écoulées depuis, l'enquête n'est pas obsolète et peut être utilement présentée à ce congrès. Nous avons associé une enquête rétrospective utilisant les registres des centres de santé et une enquête prospective réalisée dans 7 centres de santé entre 1972 et 1979. L'incidence, estimée prospectivement pour les zones rurales, dépassait 200 morsures pour 100 000 habitants. Cette évaluation pourrait être une sous-estimation car de nombreuses victimes consultaient des tradipraticiens. La morbidité annuelle était plus élevée en zone forestière (195 envenimations pour 100 000 habitants) qu'en zone savane (130 envenimations pour 100 000 habitants). A l'inverse, le taux de létalité était plus élevé en zone savane (3,1%) qu'en zone forestière (2%). Plus de la moitié des morsures concernaient des hommes âgés de 15 à 50 ans. Les risques étaient significativement plus élevés pour les agriculteurs, notamment dans les plantations industrielles, où 27 % du nombre total de morsures concernaient 1,5 % de la population. Au début des années 1980, on estimait à plus de 13 000 le nombre d'envenimations pour 8 millions d'habitants et à 200 le nombre de décès par an.",
+        "PubMed ID":[
+            "12404862"
+        ],
+        "Publication Date":1036022400000,
+        "Authors":[
+            {
+                "lastname":"Chippaux",
+                "firstname":"J P",
+                "initials":"JP",
+                "affiliation":"Institut de recherche pour le développement (IRD), B. P. 1 386, Dakar, Sénégal. chippaux@ird.sn"
+            }
+        ]
+    },
+    {
+        "Title":"Evaluation et traitement des morsures de serpents dans le village de Bancoumana au Mali.",
+        "Abstract":"Étude rétrospective des caractéristiques épidémiologiques et du traitement des morsures de serpents dans le village de Bancoumana, à 60 km au sud-ouest de Bamako. Nous avons analysé un total de 17 cas (8 hommes et 9 femmes). La répartition des cas de morsures de serpents selon le sexe et l'âge a montré que parmi les sujets âgés de 5 à 20 ans, les garçons étaient plus exposés que les filles (6 vs 2), alors que chez ceux de 21 ans et plus, les femmes étaient plus fréquemment mordues que les hommes (7 vs 2) (p = 0,04). Le traitement reposait essentiellement sur l'utilisation d'anti-inflammatoires et d'antibiotiques, et parfois de sérum salé, glucosé ou antitétanique. La vitamine K a été utilisée dans 7 cas et aucun patient n'a été traité spécifiquement. Le succès du traitement dépendait principalement du délai court entre la morsure de serpent et l'orientation du patient vers le centre de santé, et du faible taux d'envenimation. Tous les patients adressés le jour même de la morsure ont été guéris, tandis que trois personnes adressées au centre de santé à J3, J7 et J43 après morsure sont décédées. Les paramètres de surveillance étaient les œdèmes, les saignements et les vomissements.",
+        "PubMed ID":[
+            "12404860"
+        ],
+        "Publication Date":1036022400000,
+        "Authors":[
+            {
+                "lastname":"Dabo",
+                "firstname":"A",
+                "initials":"A",
+                "affiliation":"Département épidémiologie des affections parasitaires, Faculté de médecine, de pharmacie et d'odonto-stomatologie, B. P. 1 805, Bamako, Mali. adabo@MRTCBKO.malinet.ml"
+            },
+            {
+                "lastname":"Diawara",
+                "firstname":"S I",
+                "initials":"SI",
+                "affiliation":null
+            },
+            {
+                "lastname":"Dicko",
+                "firstname":"A",
+                "initials":"A",
+                "affiliation":null
+            },
+            {
+                "lastname":"Katilé",
+                "firstname":"A",
+                "initials":"A",
+                "affiliation":null
+            },
+            {
+                "lastname":"Diallo",
+                "firstname":"A",
+                "initials":"A",
+                "affiliation":null
+            },
+            {
+                "lastname":"Doumbo",
+                "firstname":"O",
+                "initials":"O",
+                "affiliation":null
+            }
+        ]
+    },
+    {
+        "Title":"Mortalité par morsures de serpents, d'animaux sauvages et domestiques et par piqûres d'arthropodes dans la zone de savane du Sénégal oriental.",
+        "Abstract":"Français De 1976 à 1999, nous avons mené une étude prospective de la mortalité globale et par cause au sein de la population de 42 villages du sud-est du Sénégal. Sur 4 228 décès enregistrés au cours de cette période, 26 étaient dus à des morsures de serpents, 4 à des piqûres d'invertébrés et 8 à d'autres animaux sauvages ou domestiques. Le taux annuel moyen de mortalité par morsures de serpents était de 14 décès pour 100 000 habitants. Chez les personnes âgées d'un an et plus, 0,9% (26\/2 880) des décès étaient dus à des morsures de serpents et cette cause représentait 28% (26\/94) du nombre total de décès par accident. Nous avons également étudié la faune serpentine de la zone. Sur 1 280 serpents appartenant à 34 espèces collectés, un tiers étaient dangereux et la proportion de Viperidae, Elapidae et Atractaspididae était respectivement de 23%, 11% et 0,6%. La vipère à écailles de scie Echis ocellatus était l'espèce la plus abondante (13,6 %). Les autres espèces venimeuses étaient Causus maculatus (6,5 %), Naja katiensis (5,5 %), Bitis arietans (2,7 %), Elapsoidea trapei (2,4 %), Naja nigricollis (1,2 %), Naja melanoleuca (1,1 %), Atractaspis aterrima (0,4 %), Dendroaspis polylepis (0,3 %) et Naja haje (0,1 %).",
+        "PubMed ID":[
+            "12404858"
+        ],
+        "Publication Date":1036022400000,
+        "Authors":[
+            {
+                "lastname":"Trape",
+                "firstname":"J F",
+                "initials":"JF",
+                "affiliation":"Laboratoire de paludologie, Institut de recherche pour le développement (IRD), B. P. 1 386, Dakar, Sénégal. trape@ird.sn"
+            },
+            {
+                "lastname":"Pison",
+                "firstname":"G",
+                "initials":"G",
+                "affiliation":null
+            },
+            {
+                "lastname":"Guyavarch",
+                "firstname":"E",
+                "initials":"E",
+                "affiliation":null
+            },
+            {
+                "lastname":"Mane",
+                "firstname":"Y",
+                "initials":"Y",
+                "affiliation":null
+            }
+        ]
+    },
+    {
+        "Title":"Evaluation de l'incidence des morsures de serpents dans la zone sahélienne du Sénégal, exemple de Niakhar.",
+        "Abstract":"Une enquête exhaustive auprès des ménages a été réalisée dans la zone d'étude de Niakhar, zone rurale sahélienne du Sénégal située à 150 km à l'est de Dakar. Les résultats ont été comparés à ceux de la base de données mise à jour trimestriellement depuis 1983 et aux déclarations de morsures de serpents dans les 7 centres de santé de la zone (130 habitants par km2). Le questionnaire portait sur les morsures de serpents (identification des victimes, circonstances de la morsure, symptômes et traitement). L'incidence annuelle était faible (23 morsures pour 100 000 habitants) ainsi que la morbidité (de l'ordre de 20 envenimations pour 100 000). Le taux de létalité était relativement élevé (7 %) et on comptait 1,5 décès pour 100 000 habitants par an. Les hommes étaient plus souvent mordus que les femmes (1,8 :1). Les travaux agricoles (agriculture et élevage) étaient à l'origine d'environ la moitié des accidents. Les tradipraticiens étaient systématiquement consultés par plus de 93 % des victimes. Ceci explique pourquoi la collecte de données à partir des registres des centres de santé ne suffit pas à estimer l’importance des envenimations dans cette zone.",
+        "PubMed ID":[
+            "12404857"
+        ],
+        "Publication Date":1036022400000,
+        "Authors":[
+            {
+                "lastname":"Chippaux",
+                "firstname":"J P",
+                "initials":"JP",
+                "affiliation":"Institut de recherche pour le développement (IRD), B. P. 1 386, Dakar, Sénégal. chippaux@ird.sn"
+            },
+            {
+                "lastname":"Diallo",
+                "firstname":"A",
+                "initials":"A",
+                "affiliation":null
+            }
+        ]
+    },
+    {
+        "Title":"[Morsure et piqûre. Prévention de la rage].",
+        "Abstract":"Aucun résumé",
+        "PubMed ID":[
+            "12187905"
+        ],
+        "Publication Date":1029974400000,
+        "Authors":[
+            {
+                "lastname":"Strady",
+                "firstname":"Christophe",
+                "initials":"C",
+                "affiliation":"Service de médecine interne et des maladies infectieuses, CHRU Robert Debré, 51092, Reims."
+            },
+            {
+                "lastname":"Rémy",
+                "firstname":"Gérard",
+                "initials":"G",
+                "affiliation":null
+            }
+        ]
+    },
+    {
+        "Title":"[Un nouveau traitement contre les morsures de serpents en Afrique].",
+        "Abstract":"Aucun résumé",
+        "PubMed ID":[
+            "11368036"
+        ],
+        "Publication Date":990576000000,
+        "Authors":[
+
+        ]
+    },
+    {
+        "Title":"[Piqûres, morsures et autres aventures...].",
+        "Abstract":"La plupart d'entre nous vivons en ville et la nature nous semble bénéfique. Malheureusement, les invertébrés et les vertébrés peuvent être agressifs. Nous allons essayer ici de passer en revue les maladies causées par les arthropodes et autres animaux nuisibles. Les blessures causées par les insectes suivants seront décrites : moustiques, mouches, puces, abeilles, guêpes et fourmis, punaises, coléoptères, papillons et chenilles. Dans la classe des arachnides : araignées, scopions, tiques et acariens. Parmi les invertébrés : sangsues, anémones, coraux, oursins, éponges et mollusques. Les vertébrés nuisibles ou venimeux ne seront pas oubliés. Des attitudes de base et pratiques sont proposées.",
+        "PubMed ID":[
+            "11068478"
+        ],
+        "Publication Date":973728000000,
+        "Authors":[
+            {
+                "lastname":"De Dobbeleer",
+                "firstname":"G",
+                "initials":"G",
+                "affiliation":"Service de Dermatologie, Hôpital Erasme, U.L.B."
+            }
+        ]
+    },
+    {
+        "Title":"[Des morsures d'arthropodes furtifs d'ici à là].",
+        "Abstract":"Les arthropodes furtifs perpètrent leurs attaques contre les humains par trois mécanismes distincts : les morsures, les piqûres ou le simple contact avec la peau. La présente revue est un résumé des effets des morsures des araignées et des diptères.",
+        "PubMed ID":[
+            "10992783"
+        ],
+        "Publication Date":969321600000,
+        "Authors":[
+            {
+                "lastname":"Hermanns-Lê",
+                "firstname":"T",
+                "initials":"T",
+                "affiliation":"Service de Dermatopathologie, Université de Liège."
+            },
+            {
+                "lastname":"Hermanns",
+                "firstname":"J F",
+                "initials":"JF",
+                "affiliation":null
+            },
+            {
+                "lastname":"Kharfi",
+                "firstname":"M",
+                "initials":"M",
+                "affiliation":null
+            },
+            {
+                "lastname":"Fazaa",
+                "firstname":"B",
+                "initials":"B",
+                "affiliation":null
+            },
+            {
+                "lastname":"Piérard-Franchimont",
+                "firstname":"C",
+                "initials":"C",
+                "affiliation":null
+            },
+            {
+                "lastname":"Piérard",
+                "firstname":"G E",
+                "initials":"GE",
+                "affiliation":null
+            }
+        ]
+    },
+    {
+        "Title":"[Morsures de vertébrés terrestres].",
+        "Abstract":"Les morsures de vertébrés terrestres, reptiles ou mammifères, représentent un risque particulier dans les régions tropicales. L'envenimation est possible chez quelques lézards et de nombreux serpents. Chez les mammifères, les destructions tissulaires dues à la morsure peuvent être graves. Quel que soit l'animal responsable, les morsures peuvent être en outre contaminées par des virus ou des bactéries transmises.",
+        "PubMed ID":[
+            "10992781"
+        ],
+        "Publication Date":969321600000,
+        "Authors":[
+            {
+                "lastname":"Henry",
+                "firstname":"F",
+                "initials":"F",
+                "affiliation":"Service de Dermatopathologie, Université de Liège."
+            },
+            {
+                "lastname":"Martalo",
+                "firstname":"O",
+                "initials":"O",
+                "affiliation":null
+            },
+            {
+                "lastname":"Claessens",
+                "firstname":"N",
+                "initials":"N",
+                "affiliation":null
+            },
+            {
+                "lastname":"Piérard",
+                "firstname":"G E",
+                "initials":"GE",
+                "affiliation":null
+            }
+        ]
+    },
+    {
+        "Title":"[Les morsures de chien chez les enfants].",
+        "Abstract":"Parmi les accidents domestiques impliquant des enfants, les morsures de chien sont une préoccupation majeure. La plupart des morsures de chien entraînent des blessures de faible gravité, mais certaines entraînent des séquelles esthétiques ou fonctionnelles certaines et nécessitent un traitement d'urgence pour la réparation des plaies et éventuellement une hospitalisation dans un centre de traumatologie. Des recommandations pour la prise en charge médicale et chirurgicale sont présentées. La prévention est importante : les enfants doivent être éduqués très tôt aux réactions des chiens, même s'ils sont issus du chien de la famille ; les jeunes enfants ne doivent jamais être laissés seuls avec un chien.",
+        "PubMed ID":[
+            "10627906"
+        ],
+        "Publication Date":947548800000,
+        "Authors":[
+            {
+                "lastname":"Chevallier",
+                "firstname":"B",
+                "initials":"B",
+                "affiliation":"CIRPAE (Centre d'information et de rencontre pour la prévention des accidents de l'enfant), Paris, France."
+            },
+            {
+                "lastname":"Sznadjer",
+                "firstname":"M",
+                "initials":"M",
+                "affiliation":null
+            }
+        ]
+    },
+    {
+        "Title":"[Morsures d'animaux domestiques].",
+        "Abstract":"Aucun résumé",
+        "PubMed ID":[
+            "10495867"
+        ],
+        "Publication Date":938217600000,
+        "Authors":[
+            {
+                "lastname":"Fond",
+                "firstname":"L",
+                "initials":"L",
+                "affiliation":"Service de Dermatologie, CHU de Saint-Etienne, Hôpital Nord."
+            },
+            {
+                "lastname":"Michel",
+                "firstname":"J L",
+                "initials":"JL",
+                "affiliation":null
+            },
+            {
+                "lastname":"Perrot",
+                "firstname":"J L",
+                "initials":"JL",
+                "affiliation":null
+            },
+            {
+                "lastname":"Montélimard",
+                "firstname":"N",
+                "initials":"N",
+                "affiliation":null
+            },
+            {
+                "lastname":"Roy",
+                "firstname":"M",
+                "initials":"M",
+                "affiliation":null
+            },
+            {
+                "lastname":"Seguin",
+                "firstname":"P",
+                "initials":"P",
+                "affiliation":null
+            },
+            {
+                "lastname":"Cambazard",
+                "firstname":"F",
+                "initials":"F",
+                "affiliation":null
+            }
+        ]
+    },
+    {
+        "Title":"[Morsure de serpent pendant la grossesse].",
+        "Abstract":"Aucun résumé",
+        "PubMed ID":[
+            "9289597"
+        ],
+        "Publication Date":852076800000,
+        "Authors":[
+            {
+                "lastname":"Dao",
+                "firstname":"B",
+                "initials":"B",
+                "affiliation":null
+            },
+            {
+                "lastname":"Da",
+                "firstname":"E",
+                "initials":"E",
+                "affiliation":null
+            },
+            {
+                "lastname":"Koalaga",
+                "firstname":"A P",
+                "initials":"AP",
+                "affiliation":null
+            },
+            {
+                "lastname":"Bambara",
+                "firstname":"M",
+                "initials":"M",
+                "affiliation":null
+            },
+            {
+                "lastname":"Bazie",
+                "firstname":"A J",
+                "initials":"AJ",
+                "affiliation":null
+            }
+        ]
+    },
+    {
+        "Title":"[Morsures de serpent].",
+        "Abstract":"Les morsures de serpent sont rares en Belgique. Néanmoins, tous les médecins doivent savoir comment réagir face à cette urgence potentiellement très dangereuse. Une morsure de serpent n'entraîne pas nécessairement un empoisonnement : les effets peuvent aller d'un léger inconfort local à une réaction systémique sévère avec défaillance multiviscérale. Par conséquent, toutes les morsures de serpent doivent être traitées comme graves et doivent faire l'objet d'un traitement adéquat. En même temps, il faut éviter toute réaction hystérique excessive car elle risque d'entraîner des complications. Cet article passe en revue les principaux éléments du traitement des morsures de serpent : du stade d'urgence à la stabilisation à l'hôpital. Les points clés soulevés sont la nécessité d'immobiliser la région affectée, d'établir une perfusion adéquate et d'anticiper les complications infectieuses. Les indications de la sérothérapie sont passées en revue ainsi que les interventions adjuvantes telles que la corticothérapie et l'héparinothérapie.",
+        "PubMed ID":[
+            "7501910"
+        ],
+        "Publication Date":815184000000,
+        "Authors":[
+            {
+                "lastname":"Vincent",
+                "firstname":"J L",
+                "initials":"JL",
+                "affiliation":"Service des Soins Intensifs, Hôpital Erasme, Bruxelles."
+            },
+            {
+                "lastname":"Créteur",
+                "firstname":"J",
+                "initials":"J",
+                "affiliation":null
+            }
+        ]
+    },
+    {
+        "Title":"[Morsures d'animaux].",
+        "Abstract":"Aucun résumé",
+        "PubMed ID":[
+            "8925477"
+        ],
+        "Publication Date":791596800000,
+        "Authors":[
+
+        ]
+    },
+    {
+        "Title":"[Piqûres d'araignées en Corse du Sud].",
+        "Abstract":"Aucun résumé",
+        "PubMed ID":[
+            "8208711"
+        ],
+        "Publication Date":762220800000,
+        "Authors":[
+            {
+                "lastname":"Fanton",
+                "firstname":"Y",
+                "initials":"Y",
+                "affiliation":null
+            },
+            {
+                "lastname":"Baldovini",
+                "firstname":"C H",
+                "initials":"CH",
+                "affiliation":null
+            },
+            {
+                "lastname":"Lecomte Lucchini",
+                "firstname":"M J",
+                "initials":"MJ",
+                "affiliation":null
+            },
+            {
+                "lastname":"Tafani",
+                "firstname":"B",
+                "initials":"B",
+                "affiliation":null
+            }
+        ]
+    },
+    {
+        "Title":"[Morsure de chien au visage. A propos de 200 cas].",
+        "Abstract":"Une série de 200 patients mordus au visage par un chien entre janvier 1979 et décembre 1990 a été revue. Le but de l'étude était d'évaluer notre attitude face aux sutures tardives et de déterminer l'origine des chiens, leur comportement et les circonstances des morsures. Dans cette série, 146\/200 patients (73%) avaient moins de 15 ans et 85\/200 (43%) moins de 5 ans ; la plupart des adultes mordus avaient un emploi à risque. Le taux de complications infectieuses était de 2,5%. Il y avait 70% (105\/150) de chiens de race identifiable (25% (38\/150) de pedigree) et 30% (45\/150) de bâtards. Dans 70% des cas la victime ne connaissait pas ou peu le chien. L'étude de notre série et d'autres publiées précédemment démontre clairement qu'une morsure de chien ne doit jamais être suturée directement. En calculant l'incidence des morsures de chien pour chaque race en France, nous concluons qu'à de très rares exceptions près, aucune race n'est plus agressive qu'une autre. Réduire le taux de morsures de chien implique une meilleure connaissance des chiens et le respect de quelques règles de bon sens, tant de la part des enfants que des propriétaires de chiens.",
+        "PubMed ID":[
+            "8074438"
+        ],
+        "Publication Date":744163200000,
+        "Authors":[
+            {
+                "lastname":"Pinsolle",
+                "firstname":"J",
+                "initials":"J",
+                "affiliation":"Service de Chirurgie Maxillo-Faciale, CHU Bordeaux."
+            },
+            {
+                "lastname":"Phan",
+                "firstname":"E",
+                "initials":"E",
+                "affiliation":null
+            },
+            {
+                "lastname":"Coustal",
+                "firstname":"B",
+                "initials":"B",
+                "affiliation":null
+            },
+            {
+                "lastname":"Manciet",
+                "firstname":"P",
+                "initials":"P",
+                "affiliation":null
+            },
+            {
+                "lastname":"Courtois",
+                "firstname":"I",
+                "initials":"I",
+                "affiliation":null
+            }
+        ]
+    },
+    {
+        "Title":"[Maladies infectieuses transmises par les morsures d'animaux].",
+        "Abstract":"La population animale, et en particulier les animaux de compagnie, présente un risque élevé de morsures, parfois graves, pouvant entraîner des complications parmi lesquelles l'infection est une des principales. Les données épidémiologiques sur les germes susceptibles de se développer (Pasteurellae, germes pyogènes, anaréobes...) sont utiles pour orienter les approches thérapeutiques curatives, et plus encore prophylactiques.",
+        "PubMed ID":[
+            "8235145"
+        ],
+        "Publication Date":736214400000,
+        "Authors":[
+            {
+                "lastname":"Bricaire",
+                "firstname":"F",
+                "initials":"F",
+                "affiliation":"Service des Maladies Infectieuses et Tropicales, Hôpital Pitié-Salpêtrière, Paris."
+            }
+        ]
+    },
+    {
+        "Title":"[Morsures de vipère].",
+        "Abstract":"Aucun résumé",
+        "PubMed ID":[
+            "2389162"
+        ],
+        "Publication Date":644198400000,
+        "Authors":[
+            {
+                "lastname":"Ruiz",
+                "firstname":"J",
+                "initials":"J",
+                "affiliation":null
+            },
+            {
+                "lastname":"Danel",
+                "firstname":"V",
+                "initials":"V",
+                "affiliation":null
+            },
+            {
+                "lastname":"Saviuc",
+                "firstname":"P",
+                "initials":"P",
+                "affiliation":null
+            },
+            {
+                "lastname":"Serve",
+                "firstname":"F",
+                "initials":"F",
+                "affiliation":null
+            }
+        ]
+    },
+    {
+        "Title":"Cellulite éosinophile (syndrome de Wells) et piqûres ou morsures d'arthropodes.",
+        "Abstract":"Aucun résumé",
+        "PubMed ID":[
+            "2315575"
+        ],
+        "Publication Date":633830400000,
+        "Authors":[
+            {
+                "lastname":"Leclercq",
+                "firstname":"M",
+                "initials":"M",
+                "affiliation":"Faculté des Sciences agronomiques de l'Etat, Zoologie générale et appliquée, Gembloux."
+            }
+        ]
+    },
+    {
+        "Title":"[Les morsures de vipères. A propos de 50 cas].",
+        "Abstract":"Aucun résumé",
+        "PubMed ID":[
+            "2477124"
+        ],
+        "Publication Date":612662400000,
+        "Authors":[
+            {
+                "lastname":"Claud",
+                "firstname":"B",
+                "initials":"B",
+                "affiliation":"Département d'Anesthésie-Réanimation, Centre hospitalier Emile-Roux, Le Puy."
+            },
+            {
+                "lastname":"Chague",
+                "firstname":"A",
+                "initials":"A",
+                "affiliation":null
+            },
+            {
+                "lastname":"Tourret",
+                "firstname":"J",
+                "initials":"J",
+                "affiliation":null
+            }
+        ]
+    },
+    {
+        "Title":"Morsures de chien et infection par inoculation bactérienne. Nécessité de mesures thérapeutiques appropriées.",
+        "Abstract":"Les statistiques les plus récentes en France soulignent une préoccupation doublement croissante : l'augmentation alarmante de la fréquence des morsures de chiens (de garde ou de compagnie), et le grand nombre de bactéries pathogènes isolées des morsures. Au cours des trois dernières années (1985, 1986, 1987), le laboratoire de bactériologie de Nancy a reçu 390 prélèvements, et 56 % d'entre eux contenaient une ou plusieurs bactéries. Ces bactéries étaient essentiellement des Pasteurella (61 %), mais d'autres espèces différentes ont été isolées et identifiées récemment : par exemple, les groupes bactériens EF4, M5, IIj et surtout DF2. Le tableau clinique est généralement une plaie qui, négligée, est suppurée. Mais les bactéries du groupe DF2 entraînent des complications générales, très graves : plus de 50 cas de septicémie ont été publiés. Dans ces cas, la notion de pathologie sous-jacente est importante : alcoolisme, cancer, splénectomie. Cette nouvelle menace appelle donc une grande vigilance : traitement curatif par antibiothérapie adaptée à la bactérie isolée et testée ; mais, après toute morsure de chien, une véritable prophylaxie s'impose systématiquement, avec des gestes classiques et une antibiothérapie (bétalactamine ou cycline) si l'organisme du patient est déficient.",
+        "PubMed ID":[
+            "2765988"
+        ],
+        "Publication Date":599616000000,
+        "Authors":[
+            {
+                "lastname":"Schmitt",
+                "firstname":"J",
+                "initials":"J",
+                "affiliation":null
+            },
+            {
+                "lastname":"Burdin",
+                "firstname":"J C",
+                "initials":"JC",
+                "affiliation":null
+            },
+            {
+                "lastname":"Lion",
+                "firstname":"C",
+                "initials":"C",
+                "affiliation":null
+            },
+            {
+                "lastname":"Paille",
+                "firstname":"F",
+                "initials":"F",
+                "affiliation":null
+            }
+        ]
+    },
+    {
+        "Title":"Complications occultes des morsures de chien : les septicémies DF2.",
+        "Abstract":"Aucun résumé",
+        "PubMed ID":[
+            "2735639"
+        ],
+        "Publication Date":599616000000,
+        "Authors":[
+            {
+                "lastname":"Burdin",
+                "firstname":"J C",
+                "initials":"JC",
+                "affiliation":null
+            },
+            {
+                "lastname":"Lion",
+                "firstname":"C",
+                "initials":"C",
+                "affiliation":null
+            },
+            {
+                "lastname":"Weber",
+                "firstname":"M",
+                "initials":"M",
+                "affiliation":null
+            },
+            {
+                "lastname":"Schmitt",
+                "firstname":"J",
+                "initials":"J",
+                "affiliation":null
+            },
+            {
+                "lastname":"de Korwin",
+                "firstname":"J D",
+                "initials":"JD",
+                "affiliation":null
+            },
+            {
+                "lastname":"Paille",
+                "firstname":"F",
+                "initials":"F",
+                "affiliation":null
+            }
+        ]
+    },
+    {
+        "Title":"Morsures d'animaux. Epidémiologie et risques infectieux.",
+        "Abstract":"L'examen de 5 116 cas de morsures animales (dont 587 ont été étudiés prospectivement) a permis d'éclairer leurs aspects épidémiologiques et le risque infectieux qu'elles comportent. Il a également permis d'évaluer plus objectivement l'effet réel des mesures thérapeutiques et prophylactiques habituellement appliquées dans de tels cas. Les plaies les plus fréquentes sont celles des mains et de la face, les premières posant un problème infectieux, les secondes un problème essentiellement esthétique. Le risque global d'infection est de 30 %, mais il est accru, notamment en ce qui concerne la pasteurellose, en cas de morsure de chat. Il n'est pas aisé de donner des règles précises et simples concernant la prévention de ce risque, mais il semble que le traitement antibiotique systématique initialement prescrit n'ait pas clairement fait la preuve de son efficacité. De même, les sutures précoces n'augmentent pas significativement le risque infectieux.",
+        "PubMed ID":[
+            "2974587"
+        ],
+        "Publication Date":596505600000,
+        "Authors":[
+            {
+                "lastname":"Strady",
+                "firstname":"A",
+                "initials":"A",
+                "affiliation":"Service de Médecine interne et des Maladies infectieuses, Hôpital Robert Debré, Reims."
+            },
+            {
+                "lastname":"Rouger",
+                "firstname":"C",
+                "initials":"C",
+                "affiliation":null
+            },
+            {
+                "lastname":"Vernet",
+                "firstname":"V",
+                "initials":"V",
+                "affiliation":null
+            },
+            {
+                "lastname":"Combremont",
+                "firstname":"A G",
+                "initials":"AG",
+                "affiliation":null
+            },
+            {
+                "lastname":"Remy",
+                "firstname":"G",
+                "initials":"G",
+                "affiliation":null
+            },
+            {
+                "lastname":"Deville",
+                "firstname":"J",
+                "initials":"J",
+                "affiliation":null
+            },
+            {
+                "lastname":"Chippaux",
+                "firstname":"C",
+                "initials":"C",
+                "affiliation":null
+            }
+        ]
+    },
+    {
+        "Title":"Insuffisance rénale par rhabdomyolyse secondaire à des morsures et griffures de chien chez un nourrisson victime de négligence.",
+        "Abstract":"Aucun résumé",
+        "PubMed ID":[
+            "3300509"
+        ],
+        "Publication Date":544233600000,
+        "Authors":[
+            {
+                "lastname":"Guillois",
+                "firstname":"B",
+                "initials":"B",
+                "affiliation":null
+            },
+            {
+                "lastname":"Postec",
+                "firstname":"J L",
+                "initials":"JL",
+                "affiliation":null
+            },
+            {
+                "lastname":"Parent",
+                "firstname":"P",
+                "initials":"P",
+                "affiliation":null
+            },
+            {
+                "lastname":"Jehan",
+                "firstname":"P",
+                "initials":"P",
+                "affiliation":null
+            },
+            {
+                "lastname":"Thoma",
+                "firstname":"M",
+                "initials":"M",
+                "affiliation":null
+            },
+            {
+                "lastname":"Alix",
+                "firstname":"D",
+                "initials":"D",
+                "affiliation":null
+            }
+        ]
+    },
+    {
+        "Title":"Les morsures de serpents au Congo. Estimation de la morbidité à Brazzaville et dans les zones rurales des départements du Pool et du Mayombe.",
+        "Abstract":"Aucun résumé",
+        "PubMed ID":[
+            "3753055"
+        ],
+        "Publication Date":504921600000,
+        "Authors":[
+            {
+                "lastname":"Carme",
+                "firstname":"B",
+                "initials":"B",
+                "affiliation":null
+            },
+            {
+                "lastname":"Trape",
+                "firstname":"J F",
+                "initials":"JF",
+                "affiliation":null
+            },
+            {
+                "lastname":"Lubaki Kumba",
+                "firstname":"L",
+                "initials":"L",
+                "affiliation":null
+            }
+        ]
+    },
+    {
+        "Title":"Polyradiculonévrite après piqûres de tiques. Rôle possible d'un nouvel agent pathogène chez l'homme : le virus Avalon.",
+        "Abstract":"Aucun résumé",
+        "PubMed ID":[
+            "2931716"
+        ],
+        "Publication Date":495504000000,
+        "Authors":[
+            {
+                "lastname":"Suinat",
+                "firstname":"J L",
+                "initials":"JL",
+                "affiliation":null
+            },
+            {
+                "lastname":"Leon",
+                "firstname":"A",
+                "initials":"A",
+                "affiliation":null
+            },
+            {
+                "lastname":"Rendoing",
+                "firstname":"J",
+                "initials":"J",
+                "affiliation":null
+            }
+        ]
+    },
+    {
+        "Title":"[Fréquence et gravité des morsures de chien].",
+        "Abstract":"Aucun résumé",
+        "PubMed ID":[
+            "3157979"
+        ],
+        "Publication Date":480988800000,
+        "Authors":[
+            {
+                "lastname":"Gervais",
+                "firstname":"C F",
+                "initials":"CF",
+                "affiliation":null
+            },
+            {
+                "lastname":"Dameron",
+                "firstname":"I",
+                "initials":"I",
+                "affiliation":null
+            },
+            {
+                "lastname":"Theron",
+                "firstname":"P",
+                "initials":"P",
+                "affiliation":null
+            },
+            {
+                "lastname":"Porta",
+                "firstname":"M C",
+                "initials":"MC",
+                "affiliation":null
+            }
+        ]
+    },
+    {
+        "Title":"[Un cas de morsure de Naja Naja Naja en Inde. Problèmes posés par le traitement des morsures de serpents].",
+        "Abstract":"L'auteur rapporte un cas de morsure de serpent venimeux de Naja naja naja, en Inde. Le patient a rapidement récupéré après traitement par sérum antivenimeux. Il souligne l'importance d'une injection intraveineuse rapide de sérum. Le sérum est moins actif pour les morsures de vipères, et doit être injecté encore plus rapidement. Cependant, en France, certains auteurs préfèrent l'héparine pour traiter les morsures de vipères françaises. Des études supplémentaires sont nécessaires pour clarifier ce problème thérapeutique.",
+        "PubMed ID":[
+            "6722971"
+        ],
+        "Publication Date":446947200000,
+        "Authors":[
+            {
+                "lastname":"Lagraulet",
+                "firstname":"J",
+                "initials":"J",
+                "affiliation":null
+            }
+        ]
+    },
+    {
+        "Title":"[Les morsures de vipères. Mythe ou réalité].",
+        "Abstract":"Aucun résumé",
+        "PubMed ID":[
+            "6224184"
+        ],
+        "Publication Date":425952000000,
+        "Authors":[
+            {
+                "lastname":"Blettery",
+                "firstname":"B",
+                "initials":"B",
+                "affiliation":null
+            },
+            {
+                "lastname":"Coppeaux",
+                "firstname":"M",
+                "initials":"M",
+                "affiliation":null
+            },
+            {
+                "lastname":"Virot",
+                "firstname":"C",
+                "initials":"C",
+                "affiliation":null
+            },
+            {
+                "lastname":"Aube",
+                "firstname":"H",
+                "initials":"H",
+                "affiliation":null
+            }
+        ]
+    },
+    {
+        "Title":"La tularémie au Canada, en particulier en Saskatchewan.",
+        "Abstract":"Although rare among humans in Canada, tularemia is often endemic in wildlife. The inhabitants of rural areas are especially likely to be exposed to the causative bacterium, Francisella tularensis, through trapping or through the bites of arthropods. Muskrats have replaced rabbits as the principal source of infection, as illustrated by a familial outbreak of oropharyngeal tularemia in Saskatchewan. In humans the disease has six distinct forms and can be asymptomatic, but it generally comes to medical attention as fever, persistent ulcers and enlarged lymph nodes. Serologic tests will confirm the diagnosis.Bien que la tularémie soit rare chez l'homme au Canada, elle existe souvent à l'état endémique parmi les animaux sauvages. Les habitants des régions rurales sont particuliérement susceptibles d'être exposés à l'agent étiologique, Francisella tularensis, lors du trappage ou par les morsures d'arthropodes. Le rat musqué a maintenant remplacé le lapin comme principale source d'infection, tel que l'illustre une poussée de tularémie oropharyngienne chez une famille de Saskatchewan. Chez l'humain la maladie prend six formes distinctes, et elle peut être asymptomatique, mais elle se présente généralement à l'attention du médecin comme une fièvre accompagnée d'ulcères persistants et d'une tuméfaction ganglionnaire. Les épreuves sérologiques confirment le diagnostic.",
+        "PubMed ID":[
+            "7046896",
+            "13489618",
+            "13067043",
+            "14785335",
+            "20318644",
+            "17647870",
+            "13276907",
+            "20274832",
+            "638920",
+            "5469624",
+            "14821890",
+            "20320009",
+            "14890003",
+            "18016354",
+            "20317823",
+            "5162327",
+            "14776187",
+            "120758",
+            "13723090",
+            "16559947",
+            "13476316",
+            "15390585",
+            "320819",
+            "13446800",
+            "5762111",
+            "5389771",
+            "20323596",
+            "20323781",
+            "14052077",
+            "20294613",
+            "17649145"
+        ],
+        "Publication Date":398217600000,
+        "Authors":[
+            {
+                "lastname":"Martin",
+                "firstname":"T",
+                "initials":"T",
+                "affiliation":null
+            },
+            {
+                "lastname":"Holmes",
+                "firstname":"I H",
+                "initials":"IH",
+                "affiliation":null
+            },
+            {
+                "lastname":"Wobeser",
+                "firstname":"G A",
+                "initials":"GA",
+                "affiliation":null
+            },
+            {
+                "lastname":"Anthony",
+                "firstname":"R F",
+                "initials":"RF",
+                "affiliation":null
+            },
+            {
+                "lastname":"Greefkes",
+                "firstname":"I",
+                "initials":"I",
+                "affiliation":null
+            }
+        ]
+    },
+    {
+        "Title":"[Complications locales des morsures de serpents (traduction de l'auteur)].",
+        "Abstract":"La morbidité, la mortalité et les complications locales des morsures de serpents dans le monde sont discutées. La nécrose survient dans environ 10 p. 100 des cas de morsures de serpents dans le monde avec une variabilité importante d'un endroit à l'autre. Les étiologies de la nécrose sont décrites. La pharmacologie des venins, les remèdes locaux et les infections tardives expliquent la diversité de la symptomatologie clinique des réactions locales dont peu sont sévères. Le traitement chirurgical doit être appliqué le plus tôt possible dans une optique préventive. Les remèdes locaux tels que garrot, incision, excision, cautérisation, etc., doivent être abandonnés. La désinfection locale doit être particulièrement soignée, le traitement des œdèmes ou des gonflements, et l'antivenin par voie intraveineuse est plutôt préférable à la chirurgie précoce. Bien entendu, le traitement médical des intoxications systémiques sera appliqué dans le même temps.",
+        "PubMed ID":[
+            "6287158"
+        ],
+        "Publication Date":383788800000,
+        "Authors":[
+            {
+                "lastname":"Chippaux",
+                "firstname":"J P",
+                "initials":"JP",
+                "affiliation":null
+            }
+        ]
+    },
+    {
+        "Title":"[Morsures de vipère].",
+        "Abstract":"Aucun résumé",
+        "PubMed ID":[
+            "16114337"
+        ],
+        "Publication Date":262828800000,
+        "Authors":[
+            {
+                "lastname":"Mercié",
+                "firstname":"C",
+                "initials":"C",
+                "affiliation":null
+            }
+        ]
+    },
+    {
+        "Title":"Traitement par héparine des morsures de crotilidae. Etude expérimentale et clinique.",
+        "Abstract":"Aucun résumé",
+        "PubMed ID":[
+            "999047"
+        ],
+        "Publication Date":189302400000,
+        "Authors":[
+
+        ]
+    },
+    {
+        "Title":"[Piqûres et morsures d'animaux].",
+        "Abstract":"Aucun résumé",
+        "PubMed ID":[
+            "4498360"
+        ],
+        "Publication Date":141868800000,
+        "Authors":[
+            {
+                "lastname":"de Villermay",
+                "firstname":"D",
+                "initials":"D",
+                "affiliation":null
+            }
+        ]
+    },
+    {
+        "Title":"[Morsures (à propos de 84 cas)].",
+        "Abstract":"Aucun résumé",
+        "PubMed ID":[
+            "4775924"
+        ],
+        "Publication Date":94694400000,
+        "Authors":[
+            {
+                "lastname":"Gournet",
+                "firstname":"C",
+                "initials":"C",
+                "affiliation":null
+            }
+        ]
+    },
+    {
+        "Title":"[Traitement d'urgence des morsures de vipères en Israël].",
+        "Abstract":"Aucun résumé",
+        "PubMed ID":[
+            "4648046"
+        ],
+        "Publication Date":73526400000,
+        "Authors":[
+            {
+                "lastname":"Pollak",
+                "firstname":"E",
+                "initials":"E",
+                "affiliation":null
+            }
+        ]
+    },
+    {
+        "Title":"Morsures de requins en Polynésie française (à propos de 14 cas)",
+        "Abstract":"Aucun résumé",
+        "PubMed ID":[
+            "4679133"
+        ],
+        "Publication Date":63072000000,
+        "Authors":[
+            {
+                "lastname":"Lagraulet",
+                "firstname":"J",
+                "initials":"J",
+                "affiliation":null
+            },
+            {
+                "lastname":"Tapu",
+                "firstname":"J",
+                "initials":"J",
+                "affiliation":null
+            },
+            {
+                "lastname":"Vidal",
+                "firstname":"R",
+                "initials":"R",
+                "affiliation":null
+            },
+            {
+                "lastname":"Fouques",
+                "firstname":"M",
+                "initials":"M",
+                "affiliation":null
+            }
+        ]
+    },
+    {
+        "Title":"Morsures et piqûres de serpents et d'insectes en France.",
+        "Abstract":"Aucun résumé",
+        "PubMed ID":[
+            "5207949"
+        ],
+        "Publication Date":47174400000,
+        "Authors":[
+            {
+                "lastname":"Labrune",
+                "firstname":"B",
+                "initials":"B",
+                "affiliation":null
+            }
+        ]
+    },
+    {
+        "Title":"Morsures mortelles causées par des chiens de berger alsaciens.",
+        "Abstract":"Aucun résumé",
+        "PubMed ID":[
+            "5109564"
+        ],
+        "Publication Date":39312000000,
+        "Authors":[
+            {
+                "lastname":"Chaumont",
+                "firstname":"A J",
+                "initials":"AJ",
+                "affiliation":null
+            }
+        ]
+    },
+    {
+        "Title":"Traitement chirurgical du prognathisme, de la béance et de la béance croisée par une technique de juxtaposition des condyles.",
+        "Abstract":"Aucun résumé",
+        "PubMed ID":[
+            "5285634"
+        ],
+        "Publication Date":36633600000,
+        "Authors":[
+            {
+                "lastname":"Gonzaga Pereira",
+                "firstname":"L",
+                "initials":"L",
+                "affiliation":null
+            }
+        ]
+    },
+    {
+        "Title":"[Morsures de vipère].",
+        "Abstract":"Aucun résumé",
+        "PubMed ID":[
+            "5442394"
+        ],
+        "Publication Date":9849600000,
+        "Authors":[
+            {
+                "lastname":"Rouques",
+                "firstname":"L",
+                "initials":"L",
+                "affiliation":null
+            }
+        ]
+    },
+    {
+        "Title":"Réaction cutanée retardée aux piqûres de fourmis rouges (Formica Ruffa). (Granulome cutané verruqueux et nécrotique)",
+        "Abstract":"Aucun résumé",
+        "PubMed ID":[
+            "4315230"
+        ],
+        "Publication Date":5702400000,
+        "Authors":[
+            {
+                "lastname":"Piguet",
+                "firstname":"B",
+                "initials":"B",
+                "affiliation":null
+            }
+        ]
+    },
+    {
+        "Title":"Morsures de vipères. Données cliniques récentes. Plan thérapeutique.",
+        "Abstract":"Aucun résumé",
+        "PubMed ID":[
+            "5738702"
+        ],
+        "Publication Date":-44755200000,
+        "Authors":[
+            {
+                "lastname":"Guillon",
+                "firstname":"J",
+                "initials":"J",
+                "affiliation":null
+            },
+            {
+                "lastname":"Nicolas",
+                "firstname":"F",
+                "initials":"F",
+                "affiliation":null
+            }
+        ]
+    },
+    {
+        "Title":"A propos des séquelles de morsures de serpent. 3 cas de lésions ostéoarticulaires.",
+        "Abstract":"Aucun résumé",
+        "PubMed ID":[
+            "5840833"
+        ],
+        "Publication Date":-142128000000,
+        "Authors":[
+            {
+                "lastname":"Plan",
+                "firstname":"C",
+                "initials":"C",
+                "affiliation":null
+            },
+            {
+                "lastname":"Gourillon",
+                "firstname":"H",
+                "initials":"H",
+                "affiliation":null
+            },
+            {
+                "lastname":"Ladouce",
+                "firstname":"P",
+                "initials":"P",
+                "affiliation":null
+            },
+            {
+                "lastname":"Maistre",
+                "firstname":"B",
+                "initials":"B",
+                "affiliation":null
+            }
+        ]
+    },
+    {
+        "Title":"[SYNDROMES HEMORRAGIQUES SUITE A DES MORSURES DE SERPENT].",
+        "Abstract":"Aucun résumé",
+        "PubMed ID":[
+            "14307486"
+        ],
+        "Publication Date":-160444800000,
+        "Authors":[
+            {
+                "lastname":"INGRAM",
+                "firstname":"G I",
+                "initials":"GI",
+                "affiliation":null
+            }
+        ]
+    },
+    {
+        "Title":"[Effet et application de l'hypothermie dans les morsures de serpents venimeux].",
+        "Abstract":"Aucun résumé",
+        "PubMed ID":[
+            "13662811"
+        ],
+        "Publication Date":-352425600000,
+        "Authors":[
+            {
+                "lastname":"BATA",
+                "firstname":"A",
+                "initials":"A",
+                "affiliation":null
+            },
+            {
+                "lastname":"VUKOBRATOVIC",
+                "firstname":"S",
+                "initials":"S",
+                "affiliation":null
+            }
+        ]
+    },
+    {
+        "Title":"[Sérum antirabique dans le traitement des morsures du visage au Nord Vietnam].",
+        "Abstract":"Aucun résumé",
+        "PubMed ID":[
+            "13534023"
+        ],
+        "Publication Date":-373593600000,
+        "Authors":[
+            {
+                "lastname":"BARME",
+                "firstname":"M",
+                "initials":"M",
+                "affiliation":null
+            }
+        ]
+    },
+    {
+        "Title":"[Morsures et piqûres venimeuses, agents, symptômes et traitement de l'envenimation].",
+        "Abstract":"Aucun résumé",
+        "PubMed ID":[
+            "13567834"
+        ],
+        "Publication Date":-376012800000,
+        "Authors":[
+            {
+                "lastname":"SAVEL",
+                "firstname":"J",
+                "initials":"J",
+                "affiliation":null
+            }
+        ]
+    },
+    {
+        "Title":"[Gravité des morsures de chameaux ; étude de 9 cas].",
+        "Abstract":"Aucun résumé",
+        "PubMed ID":[
+            "13540429"
+        ],
+        "Publication Date":-378691200000,
+        "Authors":[
+            {
+                "lastname":"O'CONNOR",
+                "firstname":"H",
+                "initials":"H",
+                "affiliation":null
+            }
+        ]
+    },
+    {
+        "Title":"[Effet des antihistaminiques dans le traitement des intoxications par morsures de serpents].",
+        "Abstract":"Aucun résumé",
+        "PubMed ID":[
+            "13413626"
+        ],
+        "Publication Date":-420768000000,
+        "Authors":[
+            {
+                "lastname":"LEFROU",
+                "firstname":"G",
+                "initials":"G",
+                "affiliation":null
+            },
+            {
+                "lastname":"MICHARD",
+                "firstname":"V",
+                "initials":"V",
+                "affiliation":null
+            }
+        ]
+    },
+    {
+        "Title":"[Morsures de serpent].",
+        "Abstract":"Aucun résumé",
+        "PubMed ID":[
+            "13365233"
+        ],
+        "Publication Date":-423187200000,
+        "Authors":[
+            {
+                "lastname":"SAPIN-JALOUSTRE",
+                "firstname":"H",
+                "initials":"H",
+                "affiliation":null
+            },
+            {
+                "lastname":"SAPIN-JALOUSTRE",
+                "firstname":"J",
+                "initials":"J",
+                "affiliation":null
+            }
+        ]
+    },
+    {
+        "Title":"[Traitement des morsures de serpents ; rapport de cas].",
+        "Abstract":"Aucun résumé",
+        "PubMed ID":[
+            "14395121"
+        ],
+        "Publication Date":-461548800000,
+        "Authors":[
+            {
+                "lastname":"NOEL",
+                "firstname":"A",
+                "initials":"A",
+                "affiliation":null
+            }
+        ]
+    },
+    {
+        "Title":"[Commentaires thérapeutiques sur les morsures de serpent].",
+        "Abstract":"Aucun résumé",
+        "PubMed ID":[
+            "14388465"
+        ],
+        "Publication Date":-468374400000,
+        "Authors":[
+            {
+                "lastname":"NOEL",
+                "firstname":"A",
+                "initials":"A",
+                "affiliation":null
+            }
+        ]
+    },
+    {
+        "Title":"[Fièvres exanthématiques provoquées par des piqûres de tiques].",
+        "Abstract":"Aucun résumé",
+        "PubMed ID":[
+            "14954350"
+        ],
+        "Publication Date":-568080000000,
+        "Authors":[
+            {
+                "lastname":"BAUSSAY",
+                "firstname":"J",
+                "initials":"J",
+                "affiliation":null
+            }
+        ]
+    },
+    {
+        "Title":"[Rapport sur un syndrome cutané provoqué par la piqûre de Trombicula autumnalis].",
+        "Abstract":"Aucun résumé",
+        "PubMed ID":[
+            "14935761"
+        ],
+        "Publication Date":-568080000000,
+        "Authors":[
+            {
+                "lastname":"PICK",
+                "firstname":"F",
+                "initials":"F",
+                "affiliation":null
+            }
+        ]
+    },
+    {
+        "Title":"[Etude statistique des morsures de serpents au Danemark et en Suède entre 1900 et 1947].",
+        "Abstract":"Aucun résumé",
+        "PubMed ID":[
+            "14864479"
+        ],
+        "Publication Date":-579830400000,
+        "Authors":[
+            {
+                "lastname":"MARQUART",
+                "firstname":"H",
+                "initials":"H",
+                "affiliation":null
+            }
+        ]
+    },
+    {
+        "Title":"[Morsures et piqûres venimeuses].",
+        "Abstract":"Aucun résumé",
+        "PubMed ID":[
+            "20259653"
+        ],
+        "Publication Date":-715305600000,
+        "Authors":[
+            {
+                "lastname":"POUX",
+                "firstname":null,
+                "initials":null,
+                "affiliation":null
+            }
+        ]
+    },
+    {
+        "Title":"[Morsures et piqûres venimeuses].",
+        "Abstract":"Aucun résumé",
+        "PubMed ID":[
+            "20259608"
+        ],
+        "Publication Date":-722563200000,
+        "Authors":[
+            {
+                "lastname":"BARTHELEMY",
+                "firstname":"R",
+                "initials":"R",
+                "affiliation":null
+            }
+        ]
+    },
+    {
+        "Title":"[Morsures de vipères].",
+        "Abstract":"Aucun résumé",
+        "PubMed ID":[
+            "21028098"
+        ],
+        "Publication Date":-751075200000,
+        "Authors":[
+            {
+                "lastname":"PHISALIX",
+                "firstname":"M",
+                "initials":"M",
+                "affiliation":null
+            }
+        ]
+    }
+]
