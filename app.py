@@ -64,8 +64,8 @@ def login():
         user = User.query.filter_by(email=email).first()
         if user and bcrypt.check_password_hash(user.password, password):
             login_user(user)
-            flash("Connexion réussie!", "success")
-            return redirect(url_for('chat'))
+            next_page = request.args.get('next')
+            return redirect(next_page or url_for('chat'))
         else:
             flash("Identifiants incorrects")
     return render_template('login.html')
